@@ -14,15 +14,13 @@ import InterfaceJsonContent from 'models/InterfaceJsonContent';
 const { 
     content, 
     durationInFrames
- }: { 
+ } = getInputProps() as { 
     content: InterfaceJsonContent,
     durationInFrames: number
- } = getInputProps()
+ }
 
 export const RemotionVideo: React.FC = () => {
-    console.log(content)
-    
-    if (!content || !content.renderData || !durationInFrames) {
+    if (!content || !durationInFrames) {
         throw new Error(`Missing information. Content: ${!!content}, renderData: ${!!content.renderData}, durationInFrames: ${!!durationInFrames}`);
     }
 
@@ -47,7 +45,7 @@ export const RemotionVideo: React.FC = () => {
                 width={content.width}
                 height={content.height}
                 defaultProps={{
-                    title: content.title,
+                    title: content.thumbnail_text ?? content.title,
                     date: content.date,
                 }}
             />

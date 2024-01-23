@@ -4,7 +4,7 @@
     "timestamp": 0,
     "date": "26/04/2021",
     "intro": {
-        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+        "text": "ТЕстовая новость."
     },
     "end": {
         "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
@@ -12,7 +12,7 @@
     },
     "news": [
         {
-            "text": "Milhões de dados pessoais de usuários do Facebook estão disponíveis gratuitamente em fórum: os dados pertencem a 533 milhões de usuários e contemplam informações como números de telefone, nomes completos, localização, email e informações biográficas. De brasileiros, o hacker afirma possuir mais de oito milhões de registros. O Facebook afirma que os dados foram obtidos através de uma vulnerabilidade antiga, já corrigida em 2019. Pesquisadores de segurança alertam que os dados roubados poderão ser utilizados por hackers para cometer fraudes. As informações são da Business Insider.",
+            "text": "ТЕстовая новость",
             "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
         },
         {
@@ -50,6 +50,3360 @@
         {
             "text": "IBM lança primeira certificação para programadores de computadores quânticos: a “IBM Quantum Developer Certification” permite que qualquer pessoa com experiência em Python e conhecimento básico de álgebra linear obtenha uma certificação no Qiskit, kit de desenvolvimento de software quântico de código aberto da IBM. Estima-se que a computação quântica será uma indústria de 65 bilhões de dólares em 2030, resultando em um grande aumento na oferta de novos empregos no setor. As informações são do blog da IBM.",
             "url": "https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/"
+        }
+    ],
+    "renderData": [
+        {
+            "text": "ТЕстовая новость.",
+            "duration": 0.25,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-intro.mp3",
+            "segments": []
+        },
+        {
+            "text": "ТЕстовая новость",
+            "duration": 0.25,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-0.mp3",
+            "segments": []
+        },
+        {
+            "text": "Telefone de Mark Zuckerberg está entre dados vazados do Facebook: além do telefone, dados como localização, detalhes do casamento, data de nascimento e ID do usuário de Zuckerberg foram expostos, reporta a Business Insider. Também estão disponíveis as informações dos co-fundadores da companhia, Chris Hughes e Dustin Moskovitz.",
+            "duration": 21.875,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-1.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 800,
+                    "word": "Telefone"
+                },
+                {
+                    "start": 812.5,
+                    "end": 912.5,
+                    "word": "de"
+                },
+                {
+                    "start": 925,
+                    "end": 1262.5,
+                    "word": "Mark"
+                },
+                {
+                    "start": 1275,
+                    "end": 1937.5,
+                    "word": "Zuckerberg"
+                },
+                {
+                    "start": 1950,
+                    "end": 2175,
+                    "word": "está"
+                },
+                {
+                    "start": 2187.5,
+                    "end": 2400,
+                    "word": "entre"
+                },
+                {
+                    "start": 2412.5,
+                    "end": 2775,
+                    "word": "dados"
+                },
+                {
+                    "start": 2787.5,
+                    "end": 3337.5,
+                    "word": "vazados"
+                },
+                {
+                    "start": 3350,
+                    "end": 3462.5,
+                    "word": "do"
+                },
+                {
+                    "start": 3475,
+                    "end": 4137.5,
+                    "word": "Facebook:"
+                },
+                {
+                    "start": 4425,
+                    "end": 4712.5,
+                    "word": "além"
+                },
+                {
+                    "start": 4725,
+                    "end": 4825,
+                    "word": "do"
+                },
+                {
+                    "start": 4837.5,
+                    "end": 5400,
+                    "word": "telefone,"
+                },
+                {
+                    "start": 5650,
+                    "end": 6050,
+                    "word": "dados"
+                },
+                {
+                    "start": 6062.5,
+                    "end": 6300,
+                    "word": "como"
+                },
+                {
+                    "start": 6312.5,
+                    "end": 7062.5,
+                    "word": "localização,"
+                },
+                {
+                    "start": 7325,
+                    "end": 7825,
+                    "word": "detalhes"
+                },
+                {
+                    "start": 7837.5,
+                    "end": 7937.5,
+                    "word": "do"
+                },
+                {
+                    "start": 7950,
+                    "end": 8537.5,
+                    "word": "casamento,"
+                },
+                {
+                    "start": 8762.5,
+                    "end": 9087.5,
+                    "word": "data"
+                },
+                {
+                    "start": 9100,
+                    "end": 9187.5,
+                    "word": "de"
+                },
+                {
+                    "start": 9200,
+                    "end": 9775,
+                    "word": "nascimento"
+                },
+                {
+                    "start": 9787.5,
+                    "end": 9812.5,
+                    "word": "e"
+                },
+                {
+                    "start": 9825,
+                    "end": 10050,
+                    "word": "ID"
+                },
+                {
+                    "start": 10062.5,
+                    "end": 10175,
+                    "word": "do"
+                },
+                {
+                    "start": 10187.5,
+                    "end": 10612.5,
+                    "word": "usuário"
+                },
+                {
+                    "start": 10625,
+                    "end": 10700,
+                    "word": "de"
+                },
+                {
+                    "start": 10712.5,
+                    "end": 11362.5,
+                    "word": "Zuckerberg"
+                },
+                {
+                    "start": 11375,
+                    "end": 11637.5,
+                    "word": "foram"
+                },
+                {
+                    "start": 11650,
+                    "end": 12312.5,
+                    "word": "expostos,"
+                },
+                {
+                    "start": 12550,
+                    "end": 13087.5,
+                    "word": "reporta"
+                },
+                {
+                    "start": 13100,
+                    "end": 13137.5,
+                    "word": "a"
+                },
+                {
+                    "start": 13150,
+                    "end": 13550,
+                    "word": "Business"
+                },
+                {
+                    "start": 13562.5,
+                    "end": 14200,
+                    "word": "Insider."
+                },
+                {
+                    "start": 15062.5,
+                    "end": 15487.5,
+                    "word": "Também"
+                },
+                {
+                    "start": 15500,
+                    "end": 15762.5,
+                    "word": "estão"
+                },
+                {
+                    "start": 15775,
+                    "end": 16375,
+                    "word": "disponíveis"
+                },
+                {
+                    "start": 16387.5,
+                    "end": 16500,
+                    "word": "as"
+                },
+                {
+                    "start": 16512.5,
+                    "end": 17237.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 17250,
+                    "end": 17437.5,
+                    "word": "dos"
+                },
+                {
+                    "start": 17450,
+                    "end": 18212.5,
+                    "word": "co-fundadores"
+                },
+                {
+                    "start": 18225,
+                    "end": 18337.5,
+                    "word": "da"
+                },
+                {
+                    "start": 18350,
+                    "end": 18962.5,
+                    "word": "companhia,"
+                },
+                {
+                    "start": 19175,
+                    "end": 19450,
+                    "word": "Chris"
+                },
+                {
+                    "start": 19462.5,
+                    "end": 19787.5,
+                    "word": "Hughes"
+                },
+                {
+                    "start": 19800,
+                    "end": 19925,
+                    "word": "e"
+                },
+                {
+                    "start": 19937.5,
+                    "end": 20262.5,
+                    "word": "Dustin"
+                },
+                {
+                    "start": 20275,
+                    "end": 21062.5,
+                    "word": "Moskovitz."
+                }
+            ]
+        },
+        {
+            "text": "LinkedIn anuncia folga de uma semana para todos os funcionários: a partir desta segunda-feira, dia 5, todos os 15.900 funcionários da companhia em todo o mundo poderão tirar uma semana de folga remunerada. Apenas uma equipe principal ficará de plantão. A ideia surgiu após uma pesquisa interna da companhia mostrar um índice muito alto de burnout (esgotamento) entre seus trabalhadores remotos. As informações são da CNN Business.",
+            "duration": 26.4,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-2.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 687.5,
+                    "word": "LinkedIn"
+                },
+                {
+                    "start": 700,
+                    "end": 1087.5,
+                    "word": "anuncia"
+                },
+                {
+                    "start": 1100,
+                    "end": 1400,
+                    "word": "folga"
+                },
+                {
+                    "start": 1412.5,
+                    "end": 1475,
+                    "word": "de"
+                },
+                {
+                    "start": 1487.5,
+                    "end": 1600,
+                    "word": "uma"
+                },
+                {
+                    "start": 1612.5,
+                    "end": 2012.5,
+                    "word": "semana"
+                },
+                {
+                    "start": 2025,
+                    "end": 2225,
+                    "word": "para"
+                },
+                {
+                    "start": 2237.5,
+                    "end": 2487.5,
+                    "word": "todos"
+                },
+                {
+                    "start": 2500,
+                    "end": 2637.5,
+                    "word": "os"
+                },
+                {
+                    "start": 2650,
+                    "end": 3312.5,
+                    "word": "funcionários:"
+                },
+                {
+                    "start": 3500,
+                    "end": 3550,
+                    "word": "a"
+                },
+                {
+                    "start": 3562.5,
+                    "end": 3887.5,
+                    "word": "partir"
+                },
+                {
+                    "start": 3900,
+                    "end": 4162.5,
+                    "word": "desta"
+                },
+                {
+                    "start": 4175,
+                    "end": 4850,
+                    "word": "segunda-feira,"
+                },
+                {
+                    "start": 5037.5,
+                    "end": 5225,
+                    "word": "dia"
+                },
+                {
+                    "start": 5237.5,
+                    "end": 5687.5,
+                    "word": "5,"
+                },
+                {
+                    "start": 5887.5,
+                    "end": 6112.5,
+                    "word": "todos"
+                },
+                {
+                    "start": 6125,
+                    "end": 6287.5,
+                    "word": "os"
+                },
+                {
+                    "start": 6300,
+                    "end": 7875,
+                    "word": "15.900 funcionários"
+                },
+                {
+                    "start": 7887.5,
+                    "end": 7987.5,
+                    "word": "da"
+                },
+                {
+                    "start": 8000,
+                    "end": 8425,
+                    "word": "companhia"
+                },
+                {
+                    "start": 8437.5,
+                    "end": 8525,
+                    "word": "em"
+                },
+                {
+                    "start": 8537.5,
+                    "end": 8750,
+                    "word": "todo"
+                },
+                {
+                    "start": 8762.5,
+                    "end": 8787.5,
+                    "word": "o"
+                },
+                {
+                    "start": 8800,
+                    "end": 9075,
+                    "word": "mundo"
+                },
+                {
+                    "start": 9087.5,
+                    "end": 9412.5,
+                    "word": "poderão"
+                },
+                {
+                    "start": 9425,
+                    "end": 9700,
+                    "word": "tirar"
+                },
+                {
+                    "start": 9712.5,
+                    "end": 9825,
+                    "word": "uma"
+                },
+                {
+                    "start": 9837.5,
+                    "end": 10212.5,
+                    "word": "semana"
+                },
+                {
+                    "start": 10225,
+                    "end": 10312.5,
+                    "word": "de"
+                },
+                {
+                    "start": 10325,
+                    "end": 10600,
+                    "word": "folga"
+                },
+                {
+                    "start": 10612.5,
+                    "end": 11237.5,
+                    "word": "remunerada."
+                },
+                {
+                    "start": 12112.5,
+                    "end": 12475,
+                    "word": "Apenas"
+                },
+                {
+                    "start": 12487.5,
+                    "end": 12650,
+                    "word": "uma"
+                },
+                {
+                    "start": 12662.5,
+                    "end": 12975,
+                    "word": "equipe"
+                },
+                {
+                    "start": 12987.5,
+                    "end": 13500,
+                    "word": "principal"
+                },
+                {
+                    "start": 13512.5,
+                    "end": 13850,
+                    "word": "ficará"
+                },
+                {
+                    "start": 13862.5,
+                    "end": 13962.5,
+                    "word": "de"
+                },
+                {
+                    "start": 13975,
+                    "end": 14437.5,
+                    "word": "plantão."
+                },
+                {
+                    "start": 15300,
+                    "end": 15412.5,
+                    "word": "A"
+                },
+                {
+                    "start": 15425,
+                    "end": 15687.5,
+                    "word": "ideia"
+                },
+                {
+                    "start": 15700,
+                    "end": 16050,
+                    "word": "surgiu"
+                },
+                {
+                    "start": 16062.5,
+                    "end": 16275,
+                    "word": "após"
+                },
+                {
+                    "start": 16287.5,
+                    "end": 16475,
+                    "word": "uma"
+                },
+                {
+                    "start": 16487.5,
+                    "end": 16887.5,
+                    "word": "pesquisa"
+                },
+                {
+                    "start": 16900,
+                    "end": 17287.5,
+                    "word": "interna"
+                },
+                {
+                    "start": 17300,
+                    "end": 17400,
+                    "word": "da"
+                },
+                {
+                    "start": 17412.5,
+                    "end": 17862.5,
+                    "word": "companhia"
+                },
+                {
+                    "start": 17875,
+                    "end": 18275,
+                    "word": "mostrar"
+                },
+                {
+                    "start": 18287.5,
+                    "end": 18387.5,
+                    "word": "um"
+                },
+                {
+                    "start": 18400,
+                    "end": 18712.5,
+                    "word": "índice"
+                },
+                {
+                    "start": 18725,
+                    "end": 19025,
+                    "word": "muito"
+                },
+                {
+                    "start": 19037.5,
+                    "end": 19262.5,
+                    "word": "alto"
+                },
+                {
+                    "start": 19275,
+                    "end": 19337.5,
+                    "word": "de"
+                },
+                {
+                    "start": 19350,
+                    "end": 19812.5,
+                    "word": "burnout"
+                },
+                {
+                    "start": 20037.5,
+                    "end": 20675,
+                    "word": "(esgotamento)"
+                },
+                {
+                    "start": 20912.5,
+                    "end": 21137.5,
+                    "word": "entre"
+                },
+                {
+                    "start": 21150,
+                    "end": 21337.5,
+                    "word": "seus"
+                },
+                {
+                    "start": 21350,
+                    "end": 21962.5,
+                    "word": "trabalhadores"
+                },
+                {
+                    "start": 21975,
+                    "end": 22550,
+                    "word": "remotos."
+                },
+                {
+                    "start": 23412.5,
+                    "end": 23525,
+                    "word": "As"
+                },
+                {
+                    "start": 23537.5,
+                    "end": 24237.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 24250,
+                    "end": 24387.5,
+                    "word": "são"
+                },
+                {
+                    "start": 24400,
+                    "end": 24500,
+                    "word": "da"
+                },
+                {
+                    "start": 24512.5,
+                    "end": 25000,
+                    "word": "CNN"
+                },
+                {
+                    "start": 25012.5,
+                    "end": 25575,
+                    "word": "Business."
+                }
+            ]
+        },
+        {
+            "text": "Pesquisadores demonstram primeiro uso humano de interface cérebro-computador sem fio: dois participantes com tetraplegia utilizaram o sistema “BrainGate” durante um ensaio clínico para apontar, clicar e digitar em um tablet padrão. O transmissor de cerca de 5cm é fixado no topo da cabeça e se conecta ao córtex motor do cérebro, emitindo sinais cerebrais com resolução de apenas um neurônio e sem a necessidade de conectar as pessoas fisicamente a um sistema externo de decodificação. As informações são da página de notícias da Brown University.",
+            "duration": 29.975,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-3.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 987.5,
+                    "word": "Pesquisadores"
+                },
+                {
+                    "start": 1000,
+                    "end": 1475,
+                    "word": "demonstram"
+                },
+                {
+                    "start": 1487.5,
+                    "end": 1862.5,
+                    "word": "primeiro"
+                },
+                {
+                    "start": 1875,
+                    "end": 2050,
+                    "word": "uso"
+                },
+                {
+                    "start": 2062.5,
+                    "end": 2312.5,
+                    "word": "humano"
+                },
+                {
+                    "start": 2325,
+                    "end": 2387.5,
+                    "word": "de"
+                },
+                {
+                    "start": 2400,
+                    "end": 2900,
+                    "word": "interface"
+                },
+                {
+                    "start": 2912.5,
+                    "end": 3762.5,
+                    "word": "cérebro-computador"
+                },
+                {
+                    "start": 3775,
+                    "end": 3987.5,
+                    "word": "sem"
+                },
+                {
+                    "start": 4000,
+                    "end": 4287.5,
+                    "word": "fio:"
+                },
+                {
+                    "start": 4550,
+                    "end": 4737.5,
+                    "word": "dois"
+                },
+                {
+                    "start": 4750,
+                    "end": 5437.5,
+                    "word": "participantes"
+                },
+                {
+                    "start": 5450,
+                    "end": 5612.5,
+                    "word": "com"
+                },
+                {
+                    "start": 5625,
+                    "end": 6225,
+                    "word": "tetraplegia"
+                },
+                {
+                    "start": 6237.5,
+                    "end": 6787.5,
+                    "word": "utilizaram"
+                },
+                {
+                    "start": 6800,
+                    "end": 6837.5,
+                    "word": "o"
+                },
+                {
+                    "start": 6850,
+                    "end": 7237.5,
+                    "word": "sistema"
+                },
+                {
+                    "start": 7312.5,
+                    "end": 7837.5,
+                    "word": "“BrainGate”"
+                },
+                {
+                    "start": 7900,
+                    "end": 8212.5,
+                    "word": "durante"
+                },
+                {
+                    "start": 8225,
+                    "end": 8275,
+                    "word": "um"
+                },
+                {
+                    "start": 8287.5,
+                    "end": 8612.5,
+                    "word": "ensaio"
+                },
+                {
+                    "start": 8625,
+                    "end": 9012.5,
+                    "word": "clínico"
+                },
+                {
+                    "start": 9025,
+                    "end": 9150,
+                    "word": "para"
+                },
+                {
+                    "start": 9162.5,
+                    "end": 9625,
+                    "word": "apontar,"
+                },
+                {
+                    "start": 9837.5,
+                    "end": 10175,
+                    "word": "clicar"
+                },
+                {
+                    "start": 10187.5,
+                    "end": 10225,
+                    "word": "e"
+                },
+                {
+                    "start": 10237.5,
+                    "end": 10637.5,
+                    "word": "digitar"
+                },
+                {
+                    "start": 10650,
+                    "end": 10725,
+                    "word": "em"
+                },
+                {
+                    "start": 10737.5,
+                    "end": 10812.5,
+                    "word": "um"
+                },
+                {
+                    "start": 10825,
+                    "end": 11200,
+                    "word": "tablet"
+                },
+                {
+                    "start": 11212.5,
+                    "end": 11625,
+                    "word": "padrão."
+                },
+                {
+                    "start": 12487.5,
+                    "end": 12575,
+                    "word": "O"
+                },
+                {
+                    "start": 12587.5,
+                    "end": 13087.5,
+                    "word": "transmissor"
+                },
+                {
+                    "start": 13100,
+                    "end": 13187.5,
+                    "word": "de"
+                },
+                {
+                    "start": 13200,
+                    "end": 13462.5,
+                    "word": "cerca"
+                },
+                {
+                    "start": 13475,
+                    "end": 13575,
+                    "word": "de"
+                },
+                {
+                    "start": 13587.5,
+                    "end": 14437.5,
+                    "word": "5cm"
+                },
+                {
+                    "start": 14450,
+                    "end": 14562.5,
+                    "word": "é"
+                },
+                {
+                    "start": 14575,
+                    "end": 15037.5,
+                    "word": "fixado"
+                },
+                {
+                    "start": 15050,
+                    "end": 15162.5,
+                    "word": "no"
+                },
+                {
+                    "start": 15175,
+                    "end": 15400,
+                    "word": "topo"
+                },
+                {
+                    "start": 15412.5,
+                    "end": 15512.5,
+                    "word": "da"
+                },
+                {
+                    "start": 15525,
+                    "end": 15925,
+                    "word": "cabeça"
+                },
+                {
+                    "start": 15937.5,
+                    "end": 15962.5,
+                    "word": "e"
+                },
+                {
+                    "start": 15975,
+                    "end": 16075,
+                    "word": "se"
+                },
+                {
+                    "start": 16087.5,
+                    "end": 16475,
+                    "word": "conecta"
+                },
+                {
+                    "start": 16487.5,
+                    "end": 16587.5,
+                    "word": "ao"
+                },
+                {
+                    "start": 16600,
+                    "end": 16975,
+                    "word": "córtex"
+                },
+                {
+                    "start": 16987.5,
+                    "end": 17262.5,
+                    "word": "motor"
+                },
+                {
+                    "start": 17275,
+                    "end": 17362.5,
+                    "word": "do"
+                },
+                {
+                    "start": 17375,
+                    "end": 17800,
+                    "word": "cérebro,"
+                },
+                {
+                    "start": 18037.5,
+                    "end": 18412.5,
+                    "word": "emitindo"
+                },
+                {
+                    "start": 18425,
+                    "end": 18775,
+                    "word": "sinais"
+                },
+                {
+                    "start": 18787.5,
+                    "end": 19262.5,
+                    "word": "cerebrais"
+                },
+                {
+                    "start": 19275,
+                    "end": 19400,
+                    "word": "com"
+                },
+                {
+                    "start": 19412.5,
+                    "end": 19937.5,
+                    "word": "resolução"
+                },
+                {
+                    "start": 19950,
+                    "end": 20012.5,
+                    "word": "de"
+                },
+                {
+                    "start": 20025,
+                    "end": 20300,
+                    "word": "apenas"
+                },
+                {
+                    "start": 20312.5,
+                    "end": 20437.5,
+                    "word": "um"
+                },
+                {
+                    "start": 20450,
+                    "end": 20912.5,
+                    "word": "neurônio"
+                },
+                {
+                    "start": 20925,
+                    "end": 20962.5,
+                    "word": "e"
+                },
+                {
+                    "start": 20975,
+                    "end": 21187.5,
+                    "word": "sem"
+                },
+                {
+                    "start": 21200,
+                    "end": 21225,
+                    "word": "a"
+                },
+                {
+                    "start": 21237.5,
+                    "end": 21862.5,
+                    "word": "necessidade"
+                },
+                {
+                    "start": 21875,
+                    "end": 21950,
+                    "word": "de"
+                },
+                {
+                    "start": 21962.5,
+                    "end": 22387.5,
+                    "word": "conectar"
+                },
+                {
+                    "start": 22400,
+                    "end": 22500,
+                    "word": "as"
+                },
+                {
+                    "start": 22512.5,
+                    "end": 22925,
+                    "word": "pessoas"
+                },
+                {
+                    "start": 22937.5,
+                    "end": 23512.5,
+                    "word": "fisicamente"
+                },
+                {
+                    "start": 23525,
+                    "end": 23537.5,
+                    "word": "a"
+                },
+                {
+                    "start": 23550,
+                    "end": 23612.5,
+                    "word": "um"
+                },
+                {
+                    "start": 23625,
+                    "end": 23987.5,
+                    "word": "sistema"
+                },
+                {
+                    "start": 24000,
+                    "end": 24387.5,
+                    "word": "externo"
+                },
+                {
+                    "start": 24400,
+                    "end": 24475,
+                    "word": "de"
+                },
+                {
+                    "start": 24487.5,
+                    "end": 25275,
+                    "word": "decodificação."
+                },
+                {
+                    "start": 26137.5,
+                    "end": 26237.5,
+                    "word": "As"
+                },
+                {
+                    "start": 26250,
+                    "end": 26912.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 26925,
+                    "end": 27050,
+                    "word": "são"
+                },
+                {
+                    "start": 27062.5,
+                    "end": 27187.5,
+                    "word": "da"
+                },
+                {
+                    "start": 27200,
+                    "end": 27550,
+                    "word": "página"
+                },
+                {
+                    "start": 27562.5,
+                    "end": 27637.5,
+                    "word": "de"
+                },
+                {
+                    "start": 27650,
+                    "end": 28137.5,
+                    "word": "notícias"
+                },
+                {
+                    "start": 28150,
+                    "end": 28250,
+                    "word": "da"
+                },
+                {
+                    "start": 28262.5,
+                    "end": 28475,
+                    "word": "Brown"
+                },
+                {
+                    "start": 28487.5,
+                    "end": 29150,
+                    "word": "University."
+                }
+            ]
+        },
+        {
+            "text": "LG deixará de produzir smartphones: a companhia confirmou que irá desativar sua unidade de telefonia móvel em todo o mundo. A decisão de sair do setor, que a LG afirmou ser incrivelmente competitivo, permitirá à empresa focar em áreas em crescimento como componentes para veículos elétricos, dispositivos conectados, casas inteligentes, robótica, inteligência artificial e soluções business-to-business. A companhia se comprometeu a fornecer assistência técnica e atualizações de software para celulares existentes por um período de tempo que irá variar de acordo com a região. As informações são da página de imprensa da LG.",
+            "duration": 40.3,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-4.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 775,
+                    "word": "LG"
+                },
+                {
+                    "start": 787.5,
+                    "end": 1200,
+                    "word": "deixará"
+                },
+                {
+                    "start": 1212.5,
+                    "end": 1325,
+                    "word": "de"
+                },
+                {
+                    "start": 1337.5,
+                    "end": 1750,
+                    "word": "produzir"
+                },
+                {
+                    "start": 1762.5,
+                    "end": 2637.5,
+                    "word": "smartphones:"
+                },
+                {
+                    "start": 2887.5,
+                    "end": 2950,
+                    "word": "a"
+                },
+                {
+                    "start": 2962.5,
+                    "end": 3500,
+                    "word": "companhia"
+                },
+                {
+                    "start": 3512.5,
+                    "end": 4087.5,
+                    "word": "confirmou"
+                },
+                {
+                    "start": 4100,
+                    "end": 4187.5,
+                    "word": "que"
+                },
+                {
+                    "start": 4200,
+                    "end": 4312.5,
+                    "word": "irá"
+                },
+                {
+                    "start": 4325,
+                    "end": 4862.5,
+                    "word": "desativar"
+                },
+                {
+                    "start": 4875,
+                    "end": 5012.5,
+                    "word": "sua"
+                },
+                {
+                    "start": 5025,
+                    "end": 5500,
+                    "word": "unidade"
+                },
+                {
+                    "start": 5512.5,
+                    "end": 5612.5,
+                    "word": "de"
+                },
+                {
+                    "start": 5625,
+                    "end": 6150,
+                    "word": "telefonia"
+                },
+                {
+                    "start": 6162.5,
+                    "end": 6575,
+                    "word": "móvel"
+                },
+                {
+                    "start": 6587.5,
+                    "end": 6700,
+                    "word": "em"
+                },
+                {
+                    "start": 6712.5,
+                    "end": 7025,
+                    "word": "todo"
+                },
+                {
+                    "start": 7037.5,
+                    "end": 7050,
+                    "word": "o"
+                },
+                {
+                    "start": 7062.5,
+                    "end": 7400,
+                    "word": "mundo."
+                },
+                {
+                    "start": 8262.5,
+                    "end": 8375,
+                    "word": "A"
+                },
+                {
+                    "start": 8387.5,
+                    "end": 8875,
+                    "word": "decisão"
+                },
+                {
+                    "start": 8887.5,
+                    "end": 9000,
+                    "word": "de"
+                },
+                {
+                    "start": 9012.5,
+                    "end": 9362.5,
+                    "word": "sair"
+                },
+                {
+                    "start": 9375,
+                    "end": 9475,
+                    "word": "do"
+                },
+                {
+                    "start": 9487.5,
+                    "end": 9937.5,
+                    "word": "setor,"
+                },
+                {
+                    "start": 10200,
+                    "end": 10300,
+                    "word": "que"
+                },
+                {
+                    "start": 10312.5,
+                    "end": 10350,
+                    "word": "a"
+                },
+                {
+                    "start": 10362.5,
+                    "end": 10837.5,
+                    "word": "LG"
+                },
+                {
+                    "start": 10850,
+                    "end": 11337.5,
+                    "word": "afirmou"
+                },
+                {
+                    "start": 11350,
+                    "end": 11512.5,
+                    "word": "ser"
+                },
+                {
+                    "start": 11525,
+                    "end": 12212.5,
+                    "word": "incrivelmente"
+                },
+                {
+                    "start": 12225,
+                    "end": 12987.5,
+                    "word": "competitivo,"
+                },
+                {
+                    "start": 13262.5,
+                    "end": 13812.5,
+                    "word": "permitirá"
+                },
+                {
+                    "start": 13825,
+                    "end": 13887.5,
+                    "word": "à"
+                },
+                {
+                    "start": 13900,
+                    "end": 14362.5,
+                    "word": "empresa"
+                },
+                {
+                    "start": 14375,
+                    "end": 14700,
+                    "word": "focar"
+                },
+                {
+                    "start": 14712.5,
+                    "end": 14825,
+                    "word": "em"
+                },
+                {
+                    "start": 14837.5,
+                    "end": 15062.5,
+                    "word": "áreas"
+                },
+                {
+                    "start": 15075,
+                    "end": 15237.5,
+                    "word": "em"
+                },
+                {
+                    "start": 15250,
+                    "end": 15862.5,
+                    "word": "crescimento"
+                },
+                {
+                    "start": 15875,
+                    "end": 16087.5,
+                    "word": "como"
+                },
+                {
+                    "start": 16100,
+                    "end": 16700,
+                    "word": "componentes"
+                },
+                {
+                    "start": 16712.5,
+                    "end": 16887.5,
+                    "word": "para"
+                },
+                {
+                    "start": 16900,
+                    "end": 17337.5,
+                    "word": "veículos"
+                },
+                {
+                    "start": 17350,
+                    "end": 18050,
+                    "word": "elétricos,"
+                },
+                {
+                    "start": 18325,
+                    "end": 19162.5,
+                    "word": "dispositivos"
+                },
+                {
+                    "start": 19175,
+                    "end": 19912.5,
+                    "word": "conectados,"
+                },
+                {
+                    "start": 20125,
+                    "end": 20425,
+                    "word": "casas"
+                },
+                {
+                    "start": 20437.5,
+                    "end": 21350,
+                    "word": "inteligentes,"
+                },
+                {
+                    "start": 21587.5,
+                    "end": 22275,
+                    "word": "robótica,"
+                },
+                {
+                    "start": 22537.5,
+                    "end": 23300,
+                    "word": "inteligência"
+                },
+                {
+                    "start": 23312.5,
+                    "end": 23950,
+                    "word": "artificial"
+                },
+                {
+                    "start": 23962.5,
+                    "end": 24000,
+                    "word": "e"
+                },
+                {
+                    "start": 24012.5,
+                    "end": 24600,
+                    "word": "soluções"
+                },
+                {
+                    "start": 24612.5,
+                    "end": 25800,
+                    "word": "business-to-business."
+                },
+                {
+                    "start": 26662.5,
+                    "end": 26775,
+                    "word": "A"
+                },
+                {
+                    "start": 26787.5,
+                    "end": 27375,
+                    "word": "companhia"
+                },
+                {
+                    "start": 27387.5,
+                    "end": 27512.5,
+                    "word": "se"
+                },
+                {
+                    "start": 27525,
+                    "end": 28112.5,
+                    "word": "comprometeu"
+                },
+                {
+                    "start": 28125,
+                    "end": 28187.5,
+                    "word": "a"
+                },
+                {
+                    "start": 28200,
+                    "end": 28637.5,
+                    "word": "fornecer"
+                },
+                {
+                    "start": 28650,
+                    "end": 29262.5,
+                    "word": "assistência"
+                },
+                {
+                    "start": 29275,
+                    "end": 29737.5,
+                    "word": "técnica"
+                },
+                {
+                    "start": 29750,
+                    "end": 29812.5,
+                    "word": "e"
+                },
+                {
+                    "start": 29825,
+                    "end": 30562.5,
+                    "word": "atualizações"
+                },
+                {
+                    "start": 30575,
+                    "end": 30675,
+                    "word": "de"
+                },
+                {
+                    "start": 30687.5,
+                    "end": 31262.5,
+                    "word": "software"
+                },
+                {
+                    "start": 31275,
+                    "end": 31475,
+                    "word": "para"
+                },
+                {
+                    "start": 31487.5,
+                    "end": 32000,
+                    "word": "celulares"
+                },
+                {
+                    "start": 32012.5,
+                    "end": 32687.5,
+                    "word": "existentes"
+                },
+                {
+                    "start": 32700,
+                    "end": 32837.5,
+                    "word": "por"
+                },
+                {
+                    "start": 32850,
+                    "end": 32925,
+                    "word": "um"
+                },
+                {
+                    "start": 32937.5,
+                    "end": 33275,
+                    "word": "período"
+                },
+                {
+                    "start": 33287.5,
+                    "end": 33437.5,
+                    "word": "de"
+                },
+                {
+                    "start": 33450,
+                    "end": 33812.5,
+                    "word": "tempo"
+                },
+                {
+                    "start": 33825,
+                    "end": 33912.5,
+                    "word": "que"
+                },
+                {
+                    "start": 33925,
+                    "end": 34050,
+                    "word": "irá"
+                },
+                {
+                    "start": 34062.5,
+                    "end": 34462.5,
+                    "word": "variar"
+                },
+                {
+                    "start": 34475,
+                    "end": 34550,
+                    "word": "de"
+                },
+                {
+                    "start": 34562.5,
+                    "end": 35000,
+                    "word": "acordo"
+                },
+                {
+                    "start": 35012.5,
+                    "end": 35150,
+                    "word": "com"
+                },
+                {
+                    "start": 35162.5,
+                    "end": 35200,
+                    "word": "a"
+                },
+                {
+                    "start": 35212.5,
+                    "end": 35675,
+                    "word": "região."
+                },
+                {
+                    "start": 36537.5,
+                    "end": 36662.5,
+                    "word": "As"
+                },
+                {
+                    "start": 36675,
+                    "end": 37462.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 37475,
+                    "end": 37587.5,
+                    "word": "são"
+                },
+                {
+                    "start": 37600,
+                    "end": 37725,
+                    "word": "da"
+                },
+                {
+                    "start": 37737.5,
+                    "end": 38137.5,
+                    "word": "página"
+                },
+                {
+                    "start": 38150,
+                    "end": 38225,
+                    "word": "de"
+                },
+                {
+                    "start": 38237.5,
+                    "end": 38750,
+                    "word": "imprensa"
+                },
+                {
+                    "start": 38762.5,
+                    "end": 38887.5,
+                    "word": "da"
+                },
+                {
+                    "start": 38900,
+                    "end": 39487.5,
+                    "word": "LG."
+                }
+            ]
+        },
+        {
+            "text": "Jogo lacrado do Super Mario quebra recorde histórico em leilão: a cópia selada do clássico “Super Mario Bros.”, do NES, foi vendida por 660 mil dólares na última sexta-feira, mais do que quadruplicando o recorde anterior, que era do jogo “Super Mario Bros. 3”, vendido por 156 mil dólares em 2020. As informações são do site The Verge.",
+            "duration": 23.5875,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-5.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 625,
+                    "word": "Jogo"
+                },
+                {
+                    "start": 637.5,
+                    "end": 1075,
+                    "word": "lacrado"
+                },
+                {
+                    "start": 1087.5,
+                    "end": 1187.5,
+                    "word": "do"
+                },
+                {
+                    "start": 1200,
+                    "end": 1525,
+                    "word": "Super"
+                },
+                {
+                    "start": 1537.5,
+                    "end": 1850,
+                    "word": "Mario"
+                },
+                {
+                    "start": 1862.5,
+                    "end": 2125,
+                    "word": "quebra"
+                },
+                {
+                    "start": 2137.5,
+                    "end": 2550,
+                    "word": "recorde"
+                },
+                {
+                    "start": 2562.5,
+                    "end": 3050,
+                    "word": "histórico"
+                },
+                {
+                    "start": 3062.5,
+                    "end": 3125,
+                    "word": "em"
+                },
+                {
+                    "start": 3137.5,
+                    "end": 3512.5,
+                    "word": "leilão:"
+                },
+                {
+                    "start": 3787.5,
+                    "end": 3850,
+                    "word": "a"
+                },
+                {
+                    "start": 3862.5,
+                    "end": 4162.5,
+                    "word": "cópia"
+                },
+                {
+                    "start": 4175,
+                    "end": 4612.5,
+                    "word": "selada"
+                },
+                {
+                    "start": 4625,
+                    "end": 4750,
+                    "word": "do"
+                },
+                {
+                    "start": 4762.5,
+                    "end": 5287.5,
+                    "word": "clássico"
+                },
+                {
+                    "start": 5387.5,
+                    "end": 5725,
+                    "word": "“Super"
+                },
+                {
+                    "start": 5737.5,
+                    "end": 5975,
+                    "word": "Mario"
+                },
+                {
+                    "start": 5987.5,
+                    "end": 6350,
+                    "word": "Bros."
+                },
+                {
+                    "start": 6637.5,
+                    "end": 6775,
+                    "word": "do"
+                },
+                {
+                    "start": 6787.5,
+                    "end": 7475,
+                    "word": "NES,"
+                },
+                {
+                    "start": 7750,
+                    "end": 7875,
+                    "word": "foi"
+                },
+                {
+                    "start": 7887.5,
+                    "end": 8287.5,
+                    "word": "vendida"
+                },
+                {
+                    "start": 8300,
+                    "end": 8437.5,
+                    "word": "por"
+                },
+                {
+                    "start": 8450,
+                    "end": 9675,
+                    "word": "660 mil"
+                },
+                {
+                    "start": 9687.5,
+                    "end": 10137.5,
+                    "word": "dólares"
+                },
+                {
+                    "start": 10150,
+                    "end": 10300,
+                    "word": "na"
+                },
+                {
+                    "start": 10312.5,
+                    "end": 10587.5,
+                    "word": "última"
+                },
+                {
+                    "start": 10600,
+                    "end": 11250,
+                    "word": "sexta-feira,"
+                },
+                {
+                    "start": 11537.5,
+                    "end": 11750,
+                    "word": "mais"
+                },
+                {
+                    "start": 11762.5,
+                    "end": 11875,
+                    "word": "do"
+                },
+                {
+                    "start": 11887.5,
+                    "end": 11987.5,
+                    "word": "que"
+                },
+                {
+                    "start": 12000,
+                    "end": 12712.5,
+                    "word": "quadruplicando"
+                },
+                {
+                    "start": 12725,
+                    "end": 12750,
+                    "word": "o"
+                },
+                {
+                    "start": 12762.5,
+                    "end": 13150,
+                    "word": "recorde"
+                },
+                {
+                    "start": 13162.5,
+                    "end": 13625,
+                    "word": "anterior,"
+                },
+                {
+                    "start": 13850,
+                    "end": 13925,
+                    "word": "que"
+                },
+                {
+                    "start": 13937.5,
+                    "end": 14100,
+                    "word": "era"
+                },
+                {
+                    "start": 14112.5,
+                    "end": 14225,
+                    "word": "do"
+                },
+                {
+                    "start": 14237.5,
+                    "end": 14562.5,
+                    "word": "jogo"
+                },
+                {
+                    "start": 14650,
+                    "end": 15025,
+                    "word": "“Super"
+                },
+                {
+                    "start": 15037.5,
+                    "end": 15287.5,
+                    "word": "Mario"
+                },
+                {
+                    "start": 15300,
+                    "end": 15587.5,
+                    "word": "Bros."
+                },
+                {
+                    "start": 15725,
+                    "end": 16075,
+                    "word": "3”"
+                },
+                {
+                    "start": 16337.5,
+                    "end": 16712.5,
+                    "word": "vendido"
+                },
+                {
+                    "start": 16725,
+                    "end": 16887.5,
+                    "word": "por"
+                },
+                {
+                    "start": 16900,
+                    "end": 18200,
+                    "word": "156 mil"
+                },
+                {
+                    "start": 18212.5,
+                    "end": 18600,
+                    "word": "dólares"
+                },
+                {
+                    "start": 18612.5,
+                    "end": 19650,
+                    "word": "em 2020."
+                },
+                {
+                    "start": 20512.5,
+                    "end": 20650,
+                    "word": "As"
+                },
+                {
+                    "start": 20662.5,
+                    "end": 21437.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 21450,
+                    "end": 21625,
+                    "word": "são"
+                },
+                {
+                    "start": 21637.5,
+                    "end": 21750,
+                    "word": "do"
+                },
+                {
+                    "start": 21762.5,
+                    "end": 22175,
+                    "word": "site"
+                },
+                {
+                    "start": 22187.5,
+                    "end": 22325,
+                    "word": "The"
+                },
+                {
+                    "start": 22337.5,
+                    "end": 22775,
+                    "word": "Verge."
+                }
+            ]
+        },
+        {
+            "text": "Número de dispositivos inteligentes se aproxima ao de toda a população mundial: a quantidade de PCs, smartphones e tablets em uso em todo o mundo deve aumentar para 6,4 bilhões em 2022, impulsionado pela mudança para o trabalho remoto, afirma pesquisa da Gartner. Estima-se que a população mundial tenha atingido 7,67 bilhões de pessoas em 2019. As informações são do site TechRadar e Google.",
+            "duration": 24.8875,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-6.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 637.5,
+                    "word": "Número"
+                },
+                {
+                    "start": 650,
+                    "end": 737.5,
+                    "word": "de"
+                },
+                {
+                    "start": 750,
+                    "end": 1387.5,
+                    "word": "dispositivos"
+                },
+                {
+                    "start": 1400,
+                    "end": 2037.5,
+                    "word": "inteligentes"
+                },
+                {
+                    "start": 2050,
+                    "end": 2112.5,
+                    "word": "se"
+                },
+                {
+                    "start": 2125,
+                    "end": 2525,
+                    "word": "aproxima"
+                },
+                {
+                    "start": 2537.5,
+                    "end": 2625,
+                    "word": "ao"
+                },
+                {
+                    "start": 2637.5,
+                    "end": 2750,
+                    "word": "de"
+                },
+                {
+                    "start": 2762.5,
+                    "end": 2962.5,
+                    "word": "toda"
+                },
+                {
+                    "start": 2975,
+                    "end": 3000,
+                    "word": "a"
+                },
+                {
+                    "start": 3012.5,
+                    "end": 3475,
+                    "word": "população"
+                },
+                {
+                    "start": 3487.5,
+                    "end": 3875,
+                    "word": "mundial:"
+                },
+                {
+                    "start": 4100,
+                    "end": 4150,
+                    "word": "a"
+                },
+                {
+                    "start": 4162.5,
+                    "end": 4650,
+                    "word": "quantidade"
+                },
+                {
+                    "start": 4662.5,
+                    "end": 4737.5,
+                    "word": "de"
+                },
+                {
+                    "start": 4750,
+                    "end": 5162.5,
+                    "word": "PCs,"
+                },
+                {
+                    "start": 5437.5,
+                    "end": 6037.5,
+                    "word": "smartphones"
+                },
+                {
+                    "start": 6050,
+                    "end": 6162.5,
+                    "word": "e"
+                },
+                {
+                    "start": 6175,
+                    "end": 6525,
+                    "word": "tablets"
+                },
+                {
+                    "start": 6537.5,
+                    "end": 6712.5,
+                    "word": "em"
+                },
+                {
+                    "start": 6725,
+                    "end": 6875,
+                    "word": "uso"
+                },
+                {
+                    "start": 6887.5,
+                    "end": 6975,
+                    "word": "em"
+                },
+                {
+                    "start": 6987.5,
+                    "end": 7187.5,
+                    "word": "todo"
+                },
+                {
+                    "start": 7200,
+                    "end": 7225,
+                    "word": "o"
+                },
+                {
+                    "start": 7237.5,
+                    "end": 7512.5,
+                    "word": "mundo"
+                },
+                {
+                    "start": 7525,
+                    "end": 7675,
+                    "word": "deve"
+                },
+                {
+                    "start": 7687.5,
+                    "end": 8087.5,
+                    "word": "aumentar"
+                },
+                {
+                    "start": 8100,
+                    "end": 8275,
+                    "word": "para"
+                },
+                {
+                    "start": 8287.5,
+                    "end": 9512.5,
+                    "word": "6,4 bilhões"
+                },
+                {
+                    "start": 9525,
+                    "end": 10462.5,
+                    "word": "em 2022,"
+                },
+                {
+                    "start": 10750,
+                    "end": 11300,
+                    "word": "impulsionado"
+                },
+                {
+                    "start": 11312.5,
+                    "end": 11475,
+                    "word": "pela"
+                },
+                {
+                    "start": 11487.5,
+                    "end": 11912.5,
+                    "word": "mudança"
+                },
+                {
+                    "start": 11925,
+                    "end": 12037.5,
+                    "word": "para"
+                },
+                {
+                    "start": 12050,
+                    "end": 12075,
+                    "word": "o"
+                },
+                {
+                    "start": 12087.5,
+                    "end": 12450,
+                    "word": "trabalho"
+                },
+                {
+                    "start": 12462.5,
+                    "end": 12900,
+                    "word": "remoto,"
+                },
+                {
+                    "start": 13175,
+                    "end": 13537.5,
+                    "word": "afirma"
+                },
+                {
+                    "start": 13550,
+                    "end": 13950,
+                    "word": "pesquisa"
+                },
+                {
+                    "start": 13962.5,
+                    "end": 14062.5,
+                    "word": "da"
+                },
+                {
+                    "start": 14075,
+                    "end": 14512.5,
+                    "word": "Gartner."
+                },
+                {
+                    "start": 15375,
+                    "end": 15925,
+                    "word": "Estima-se"
+                },
+                {
+                    "start": 15937.5,
+                    "end": 16000,
+                    "word": "que"
+                },
+                {
+                    "start": 16012.5,
+                    "end": 16050,
+                    "word": "a"
+                },
+                {
+                    "start": 16062.5,
+                    "end": 16537.5,
+                    "word": "população"
+                },
+                {
+                    "start": 16550,
+                    "end": 16912.5,
+                    "word": "mundial"
+                },
+                {
+                    "start": 16925,
+                    "end": 17075,
+                    "word": "tenha"
+                },
+                {
+                    "start": 17087.5,
+                    "end": 17525,
+                    "word": "atingido"
+                },
+                {
+                    "start": 17537.5,
+                    "end": 19250,
+                    "word": "7,67 bilhões"
+                },
+                {
+                    "start": 19262.5,
+                    "end": 19350,
+                    "word": "de"
+                },
+                {
+                    "start": 19362.5,
+                    "end": 19750,
+                    "word": "pessoas"
+                },
+                {
+                    "start": 19762.5,
+                    "end": 20837.5,
+                    "word": "em 2019."
+                },
+                {
+                    "start": 21700,
+                    "end": 21837.5,
+                    "word": "As"
+                },
+                {
+                    "start": 21850,
+                    "end": 22537.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 22550,
+                    "end": 22687.5,
+                    "word": "são"
+                },
+                {
+                    "start": 22700,
+                    "end": 22837.5,
+                    "word": "do"
+                },
+                {
+                    "start": 22850,
+                    "end": 23200,
+                    "word": "site"
+                },
+                {
+                    "start": 23212.5,
+                    "end": 23662.5,
+                    "word": "TechRadar"
+                },
+                {
+                    "start": 23675,
+                    "end": 23725,
+                    "word": "e"
+                },
+                {
+                    "start": 23737.5,
+                    "end": 24075,
+                    "word": "Google."
+                }
+            ]
+        },
+        {
+            "text": "Tim Cook não estará no comando da Apple nos próximos dez anos: em entrevista à Kara Swisher, no podcast Sway, o CEO da Apple não fixou nenhuma data para sua saída, mas indicou o período para a transição do cargo. No ano passado, a Bloomberg reportou que a Apple já estaria trabalhando no planejamento de sucessão, com candidatos da companhia incluindo Jeff Williams (diretor de operações) e John Ternus (vice-presidente de engenharia de hardware). As informações são do site 9to5Apple.",
+            "duration": 27.3125,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-7.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 537.5,
+                    "word": "Tim"
+                },
+                {
+                    "start": 550,
+                    "end": 787.5,
+                    "word": "Cook"
+                },
+                {
+                    "start": 800,
+                    "end": 937.5,
+                    "word": "não"
+                },
+                {
+                    "start": 950,
+                    "end": 1212.5,
+                    "word": "estará"
+                },
+                {
+                    "start": 1225,
+                    "end": 1312.5,
+                    "word": "no"
+                },
+                {
+                    "start": 1325,
+                    "end": 1675,
+                    "word": "comando"
+                },
+                {
+                    "start": 1687.5,
+                    "end": 1812.5,
+                    "word": "da"
+                },
+                {
+                    "start": 1825,
+                    "end": 2062.5,
+                    "word": "Apple"
+                },
+                {
+                    "start": 2075,
+                    "end": 2225,
+                    "word": "nos"
+                },
+                {
+                    "start": 2237.5,
+                    "end": 2650,
+                    "word": "próximos"
+                },
+                {
+                    "start": 2662.5,
+                    "end": 2812.5,
+                    "word": "dez"
+                },
+                {
+                    "start": 2825,
+                    "end": 3187.5,
+                    "word": "anos:"
+                },
+                {
+                    "start": 3362.5,
+                    "end": 3412.5,
+                    "word": "em"
+                },
+                {
+                    "start": 3425,
+                    "end": 3925,
+                    "word": "entrevista"
+                },
+                {
+                    "start": 3937.5,
+                    "end": 3962.5,
+                    "word": "à"
+                },
+                {
+                    "start": 3975,
+                    "end": 4150,
+                    "word": "Kara"
+                },
+                {
+                    "start": 4162.5,
+                    "end": 4575,
+                    "word": "Swisher,"
+                },
+                {
+                    "start": 4837.5,
+                    "end": 4912.5,
+                    "word": "no"
+                },
+                {
+                    "start": 4925,
+                    "end": 5412.5,
+                    "word": "podcast"
+                },
+                {
+                    "start": 5425,
+                    "end": 5675,
+                    "word": "Sway,"
+                },
+                {
+                    "start": 5937.5,
+                    "end": 5987.5,
+                    "word": "o"
+                },
+                {
+                    "start": 6000,
+                    "end": 6387.5,
+                    "word": "CEO"
+                },
+                {
+                    "start": 6400,
+                    "end": 6525,
+                    "word": "da"
+                },
+                {
+                    "start": 6537.5,
+                    "end": 6800,
+                    "word": "Apple"
+                },
+                {
+                    "start": 6812.5,
+                    "end": 6937.5,
+                    "word": "não"
+                },
+                {
+                    "start": 6950,
+                    "end": 7312.5,
+                    "word": "fixou"
+                },
+                {
+                    "start": 7325,
+                    "end": 7625,
+                    "word": "nenhuma"
+                },
+                {
+                    "start": 7637.5,
+                    "end": 7887.5,
+                    "word": "data"
+                },
+                {
+                    "start": 7900,
+                    "end": 8050,
+                    "word": "para"
+                },
+                {
+                    "start": 8062.5,
+                    "end": 8225,
+                    "word": "sua"
+                },
+                {
+                    "start": 8237.5,
+                    "end": 8612.5,
+                    "word": "saída,"
+                },
+                {
+                    "start": 8900,
+                    "end": 9012.5,
+                    "word": "mas"
+                },
+                {
+                    "start": 9025,
+                    "end": 9362.5,
+                    "word": "indicou"
+                },
+                {
+                    "start": 9375,
+                    "end": 9412.5,
+                    "word": "o"
+                },
+                {
+                    "start": 9425,
+                    "end": 9800,
+                    "word": "período"
+                },
+                {
+                    "start": 9812.5,
+                    "end": 9950,
+                    "word": "para"
+                },
+                {
+                    "start": 9962.5,
+                    "end": 9987.5,
+                    "word": "a"
+                },
+                {
+                    "start": 10000,
+                    "end": 10412.5,
+                    "word": "transição"
+                },
+                {
+                    "start": 10425,
+                    "end": 10550,
+                    "word": "do"
+                },
+                {
+                    "start": 10562.5,
+                    "end": 10925,
+                    "word": "cargo."
+                },
+                {
+                    "start": 11787.5,
+                    "end": 11950,
+                    "word": "No"
+                },
+                {
+                    "start": 11962.5,
+                    "end": 12112.5,
+                    "word": "ano"
+                },
+                {
+                    "start": 12125,
+                    "end": 12587.5,
+                    "word": "passado,"
+                },
+                {
+                    "start": 12850,
+                    "end": 12887.5,
+                    "word": "a"
+                },
+                {
+                    "start": 12900,
+                    "end": 13337.5,
+                    "word": "Bloomberg"
+                },
+                {
+                    "start": 13350,
+                    "end": 13812.5,
+                    "word": "reportou"
+                },
+                {
+                    "start": 13825,
+                    "end": 13912.5,
+                    "word": "que"
+                },
+                {
+                    "start": 13925,
+                    "end": 13975,
+                    "word": "a"
+                },
+                {
+                    "start": 13987.5,
+                    "end": 14262.5,
+                    "word": "Apple"
+                },
+                {
+                    "start": 14275,
+                    "end": 14375,
+                    "word": "já"
+                },
+                {
+                    "start": 14387.5,
+                    "end": 14712.5,
+                    "word": "estaria"
+                },
+                {
+                    "start": 14725,
+                    "end": 15162.5,
+                    "word": "trabalhando"
+                },
+                {
+                    "start": 15175,
+                    "end": 15262.5,
+                    "word": "no"
+                },
+                {
+                    "start": 15275,
+                    "end": 15875,
+                    "word": "planejamento"
+                },
+                {
+                    "start": 15887.5,
+                    "end": 15962.5,
+                    "word": "de"
+                },
+                {
+                    "start": 15975,
+                    "end": 16475,
+                    "word": "sucessão,"
+                },
+                {
+                    "start": 16775,
+                    "end": 16900,
+                    "word": "com"
+                },
+                {
+                    "start": 16912.5,
+                    "end": 17450,
+                    "word": "candidatos"
+                },
+                {
+                    "start": 17462.5,
+                    "end": 17550,
+                    "word": "da"
+                },
+                {
+                    "start": 17562.5,
+                    "end": 17987.5,
+                    "word": "companhia"
+                },
+                {
+                    "start": 18000,
+                    "end": 18400,
+                    "word": "incluindo"
+                },
+                {
+                    "start": 18412.5,
+                    "end": 18650,
+                    "word": "Jeff"
+                },
+                {
+                    "start": 18662.5,
+                    "end": 19025,
+                    "word": "Williams"
+                },
+                {
+                    "start": 19175,
+                    "end": 19575,
+                    "word": "(diretor"
+                },
+                {
+                    "start": 19587.5,
+                    "end": 19662.5,
+                    "word": "de"
+                },
+                {
+                    "start": 19675,
+                    "end": 20250,
+                    "word": "operações)"
+                },
+                {
+                    "start": 20462.5,
+                    "end": 20512.5,
+                    "word": "e"
+                },
+                {
+                    "start": 20525,
+                    "end": 20675,
+                    "word": "John"
+                },
+                {
+                    "start": 20687.5,
+                    "end": 21087.5,
+                    "word": "Ternus"
+                },
+                {
+                    "start": 21262.5,
+                    "end": 21975,
+                    "word": "(vice-presidente"
+                },
+                {
+                    "start": 21987.5,
+                    "end": 22062.5,
+                    "word": "de"
+                },
+                {
+                    "start": 22075,
+                    "end": 22537.5,
+                    "word": "engenharia"
+                },
+                {
+                    "start": 22550,
+                    "end": 22637.5,
+                    "word": "de"
+                },
+                {
+                    "start": 22650,
+                    "end": 23062.5,
+                    "word": "hardware)"
+                },
+                {
+                    "start": 23925,
+                    "end": 24062.5,
+                    "word": "As"
+                },
+                {
+                    "start": 24075,
+                    "end": 24750,
+                    "word": "informações"
+                },
+                {
+                    "start": 24762.5,
+                    "end": 24887.5,
+                    "word": "são"
+                },
+                {
+                    "start": 24900,
+                    "end": 25037.5,
+                    "word": "do"
+                },
+                {
+                    "start": 25050,
+                    "end": 25387.5,
+                    "word": "site"
+                },
+                {
+                    "start": 25400,
+                    "end": 26500,
+                    "word": "9to5Apple."
+                }
+            ]
+        },
+        {
+            "text": "Novos testes do EmDrive mostram que “motor impossível” não desenvolve propulsão: em testes inicialmente realizados nos laboratórios da NASA, o motor EmDrive havia gerado grande esperança de que pudesse representar uma alternativa sem combustível revolucionária para propulsão espacial. Agora, novos testes realizados por pesquisadores da Universidade de Dresden mostram que o EmDrive não desenvolveu nenhuma força de empuxo como previamente observado pela NASA. As informações são do site Grenzwissenschaft-Aktuell.",
+            "duration": 32.2125,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-8.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 762.5,
+                    "word": "Novos"
+                },
+                {
+                    "start": 775,
+                    "end": 1162.5,
+                    "word": "testes"
+                },
+                {
+                    "start": 1175,
+                    "end": 1275,
+                    "word": "do"
+                },
+                {
+                    "start": 1287.5,
+                    "end": 1750,
+                    "word": "EmDrive"
+                },
+                {
+                    "start": 1762.5,
+                    "end": 2212.5,
+                    "word": "mostram"
+                },
+                {
+                    "start": 2225,
+                    "end": 2325,
+                    "word": "que"
+                },
+                {
+                    "start": 2375,
+                    "end": 2725,
+                    "word": "“motor"
+                },
+                {
+                    "start": 2737.5,
+                    "end": 3400,
+                    "word": "impossível”"
+                },
+                {
+                    "start": 3475,
+                    "end": 3637.5,
+                    "word": "não"
+                },
+                {
+                    "start": 3650,
+                    "end": 4237.5,
+                    "word": "desenvolve"
+                },
+                {
+                    "start": 4250,
+                    "end": 4850,
+                    "word": "propulsão:"
+                },
+                {
+                    "start": 5112.5,
+                    "end": 5237.5,
+                    "word": "em"
+                },
+                {
+                    "start": 5250,
+                    "end": 5600,
+                    "word": "testes"
+                },
+                {
+                    "start": 5612.5,
+                    "end": 6262.5,
+                    "word": "inicialmente"
+                },
+                {
+                    "start": 6275,
+                    "end": 6950,
+                    "word": "realizados"
+                },
+                {
+                    "start": 6962.5,
+                    "end": 7112.5,
+                    "word": "nos"
+                },
+                {
+                    "start": 7125,
+                    "end": 7812.5,
+                    "word": "laboratórios"
+                },
+                {
+                    "start": 7825,
+                    "end": 7937.5,
+                    "word": "da"
+                },
+                {
+                    "start": 7950,
+                    "end": 8375,
+                    "word": "NASA,"
+                },
+                {
+                    "start": 8625,
+                    "end": 8712.5,
+                    "word": "o"
+                },
+                {
+                    "start": 8725,
+                    "end": 9125,
+                    "word": "motor"
+                },
+                {
+                    "start": 9137.5,
+                    "end": 9587.5,
+                    "word": "EmDrive"
+                },
+                {
+                    "start": 9600,
+                    "end": 9875,
+                    "word": "havia"
+                },
+                {
+                    "start": 9887.5,
+                    "end": 10287.5,
+                    "word": "gerado"
+                },
+                {
+                    "start": 10300,
+                    "end": 10600,
+                    "word": "grande"
+                },
+                {
+                    "start": 10612.5,
+                    "end": 11187.5,
+                    "word": "esperança"
+                },
+                {
+                    "start": 11200,
+                    "end": 11287.5,
+                    "word": "de"
+                },
+                {
+                    "start": 11300,
+                    "end": 11412.5,
+                    "word": "que"
+                },
+                {
+                    "start": 11425,
+                    "end": 11862.5,
+                    "word": "pudesse"
+                },
+                {
+                    "start": 11875,
+                    "end": 12462.5,
+                    "word": "representar"
+                },
+                {
+                    "start": 12475,
+                    "end": 12575,
+                    "word": "uma"
+                },
+                {
+                    "start": 12587.5,
+                    "end": 13250,
+                    "word": "alternativa"
+                },
+                {
+                    "start": 13262.5,
+                    "end": 13500,
+                    "word": "sem"
+                },
+                {
+                    "start": 13512.5,
+                    "end": 14137.5,
+                    "word": "combustível"
+                },
+                {
+                    "start": 14150,
+                    "end": 14937.5,
+                    "word": "revolucionária"
+                },
+                {
+                    "start": 14950,
+                    "end": 15137.5,
+                    "word": "para"
+                },
+                {
+                    "start": 15150,
+                    "end": 15725,
+                    "word": "propulsão"
+                },
+                {
+                    "start": 15737.5,
+                    "end": 16375,
+                    "word": "espacial."
+                },
+                {
+                    "start": 17237.5,
+                    "end": 17750,
+                    "word": "Agora,"
+                },
+                {
+                    "start": 18000,
+                    "end": 18425,
+                    "word": "novos"
+                },
+                {
+                    "start": 18437.5,
+                    "end": 18837.5,
+                    "word": "testes"
+                },
+                {
+                    "start": 18850,
+                    "end": 19575,
+                    "word": "realizados"
+                },
+                {
+                    "start": 19587.5,
+                    "end": 19737.5,
+                    "word": "por"
+                },
+                {
+                    "start": 19750,
+                    "end": 20512.5,
+                    "word": "pesquisadores"
+                },
+                {
+                    "start": 20525,
+                    "end": 20687.5,
+                    "word": "da"
+                },
+                {
+                    "start": 20700,
+                    "end": 21425,
+                    "word": "Universidade"
+                },
+                {
+                    "start": 21437.5,
+                    "end": 21550,
+                    "word": "de"
+                },
+                {
+                    "start": 21562.5,
+                    "end": 21925,
+                    "word": "Dresden"
+                },
+                {
+                    "start": 21937.5,
+                    "end": 22362.5,
+                    "word": "mostram"
+                },
+                {
+                    "start": 22375,
+                    "end": 22475,
+                    "word": "que"
+                },
+                {
+                    "start": 22487.5,
+                    "end": 22525,
+                    "word": "o"
+                },
+                {
+                    "start": 22537.5,
+                    "end": 23012.5,
+                    "word": "EmDrive"
+                },
+                {
+                    "start": 23025,
+                    "end": 23175,
+                    "word": "não"
+                },
+                {
+                    "start": 23187.5,
+                    "end": 23750,
+                    "word": "desenvolveu"
+                },
+                {
+                    "start": 23762.5,
+                    "end": 24187.5,
+                    "word": "nenhuma"
+                },
+                {
+                    "start": 24200,
+                    "end": 24600,
+                    "word": "força"
+                },
+                {
+                    "start": 24612.5,
+                    "end": 24700,
+                    "word": "de"
+                },
+                {
+                    "start": 24712.5,
+                    "end": 25175,
+                    "word": "empuxo"
+                },
+                {
+                    "start": 25187.5,
+                    "end": 25425,
+                    "word": "como"
+                },
+                {
+                    "start": 25437.5,
+                    "end": 26087.5,
+                    "word": "previamente"
+                },
+                {
+                    "start": 26100,
+                    "end": 26762.5,
+                    "word": "observado"
+                },
+                {
+                    "start": 26775,
+                    "end": 26987.5,
+                    "word": "pela"
+                },
+                {
+                    "start": 27000,
+                    "end": 27362.5,
+                    "word": "NASA."
+                },
+                {
+                    "start": 28225,
+                    "end": 28350,
+                    "word": "As"
+                },
+                {
+                    "start": 28362.5,
+                    "end": 29162.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 29175,
+                    "end": 29312.5,
+                    "word": "são"
+                },
+                {
+                    "start": 29325,
+                    "end": 29425,
+                    "word": "do"
+                },
+                {
+                    "start": 29437.5,
+                    "end": 29812.5,
+                    "word": "site"
+                },
+                {
+                    "start": 29825,
+                    "end": 31400,
+                    "word": "Grenzwissenschaft-Aktuell."
+                }
+            ]
+        },
+        {
+            "text": "IBM lança primeira certificação para programadores de computadores quânticos: a “IBM Quantum Developer Certification” permite que qualquer pessoa com experiência em Python e conhecimento básico de álgebra linear obtenha uma certificação no Qiskit, kit de desenvolvimento de software quântico de código aberto da IBM. Estima-se que a computação quântica será uma indústria de 65 bilhões de dólares em 2030, resultando em um grande aumento na oferta de novos empregos no setor. As informações são do blog da IBM.",
+            "duration": 31.2,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-9.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 775,
+                    "word": "IBM"
+                },
+                {
+                    "start": 787.5,
+                    "end": 1137.5,
+                    "word": "lança"
+                },
+                {
+                    "start": 1150,
+                    "end": 1525,
+                    "word": "primeira"
+                },
+                {
+                    "start": 1537.5,
+                    "end": 2275,
+                    "word": "certificação"
+                },
+                {
+                    "start": 2287.5,
+                    "end": 2475,
+                    "word": "para"
+                },
+                {
+                    "start": 2487.5,
+                    "end": 3212.5,
+                    "word": "programadores"
+                },
+                {
+                    "start": 3225,
+                    "end": 3300,
+                    "word": "de"
+                },
+                {
+                    "start": 3312.5,
+                    "end": 3987.5,
+                    "word": "computadores"
+                },
+                {
+                    "start": 4000,
+                    "end": 4537.5,
+                    "word": "quânticos:"
+                },
+                {
+                    "start": 4837.5,
+                    "end": 4875,
+                    "word": "a"
+                },
+                {
+                    "start": 4962.5,
+                    "end": 5437.5,
+                    "word": "“IBM"
+                },
+                {
+                    "start": 5450,
+                    "end": 5762.5,
+                    "word": "Quantum"
+                },
+                {
+                    "start": 5775,
+                    "end": 6325,
+                    "word": "Developer"
+                },
+                {
+                    "start": 6337.5,
+                    "end": 7162.5,
+                    "word": "Certification”"
+                },
+                {
+                    "start": 7262.5,
+                    "end": 7687.5,
+                    "word": "permite"
+                },
+                {
+                    "start": 7700,
+                    "end": 7787.5,
+                    "word": "que"
+                },
+                {
+                    "start": 7800,
+                    "end": 8187.5,
+                    "word": "qualquer"
+                },
+                {
+                    "start": 8200,
+                    "end": 8562.5,
+                    "word": "pessoa"
+                },
+                {
+                    "start": 8575,
+                    "end": 8712.5,
+                    "word": "com"
+                },
+                {
+                    "start": 8725,
+                    "end": 9325,
+                    "word": "experiência"
+                },
+                {
+                    "start": 9337.5,
+                    "end": 9425,
+                    "word": "em"
+                },
+                {
+                    "start": 9437.5,
+                    "end": 9825,
+                    "word": "Python"
+                },
+                {
+                    "start": 9837.5,
+                    "end": 9875,
+                    "word": "e"
+                },
+                {
+                    "start": 9887.5,
+                    "end": 10487.5,
+                    "word": "conhecimento"
+                },
+                {
+                    "start": 10500,
+                    "end": 10962.5,
+                    "word": "básico"
+                },
+                {
+                    "start": 10975,
+                    "end": 11075,
+                    "word": "de"
+                },
+                {
+                    "start": 11087.5,
+                    "end": 11462.5,
+                    "word": "álgebra"
+                },
+                {
+                    "start": 11475,
+                    "end": 11825,
+                    "word": "linear"
+                },
+                {
+                    "start": 11837.5,
+                    "end": 12200,
+                    "word": "obtenha"
+                },
+                {
+                    "start": 12212.5,
+                    "end": 12325,
+                    "word": "uma"
+                },
+                {
+                    "start": 12337.5,
+                    "end": 13025,
+                    "word": "certificação"
+                },
+                {
+                    "start": 13037.5,
+                    "end": 13125,
+                    "word": "no"
+                },
+                {
+                    "start": 13137.5,
+                    "end": 13562.5,
+                    "word": "Qiskit,"
+                },
+                {
+                    "start": 13800,
+                    "end": 14050,
+                    "word": "kit"
+                },
+                {
+                    "start": 14062.5,
+                    "end": 14150,
+                    "word": "de"
+                },
+                {
+                    "start": 14162.5,
+                    "end": 14925,
+                    "word": "desenvolvimento"
+                },
+                {
+                    "start": 14937.5,
+                    "end": 15025,
+                    "word": "de"
+                },
+                {
+                    "start": 15037.5,
+                    "end": 15575,
+                    "word": "software"
+                },
+                {
+                    "start": 15587.5,
+                    "end": 16012.5,
+                    "word": "quântico"
+                },
+                {
+                    "start": 16025,
+                    "end": 16112.5,
+                    "word": "de"
+                },
+                {
+                    "start": 16125,
+                    "end": 16512.5,
+                    "word": "código"
+                },
+                {
+                    "start": 16525,
+                    "end": 16912.5,
+                    "word": "aberto"
+                },
+                {
+                    "start": 16925,
+                    "end": 17012.5,
+                    "word": "da"
+                },
+                {
+                    "start": 17025,
+                    "end": 17512.5,
+                    "word": "IBM."
+                },
+                {
+                    "start": 18375,
+                    "end": 18875,
+                    "word": "Estima-se"
+                },
+                {
+                    "start": 18887.5,
+                    "end": 18962.5,
+                    "word": "que"
+                },
+                {
+                    "start": 18975,
+                    "end": 19012.5,
+                    "word": "a"
+                },
+                {
+                    "start": 19025,
+                    "end": 19650,
+                    "word": "computação"
+                },
+                {
+                    "start": 19662.5,
+                    "end": 20100,
+                    "word": "quântica"
+                },
+                {
+                    "start": 20112.5,
+                    "end": 20337.5,
+                    "word": "será"
+                },
+                {
+                    "start": 20350,
+                    "end": 20450,
+                    "word": "uma"
+                },
+                {
+                    "start": 20462.5,
+                    "end": 20950,
+                    "word": "indústria"
+                },
+                {
+                    "start": 20962.5,
+                    "end": 21037.5,
+                    "word": "de"
+                },
+                {
+                    "start": 21050,
+                    "end": 22275,
+                    "word": "65 bilhões"
+                },
+                {
+                    "start": 22287.5,
+                    "end": 22375,
+                    "word": "de"
+                },
+                {
+                    "start": 22387.5,
+                    "end": 22787.5,
+                    "word": "dólares"
+                },
+                {
+                    "start": 22800,
+                    "end": 23750,
+                    "word": "em 2030,"
+                },
+                {
+                    "start": 24000,
+                    "end": 24512.5,
+                    "word": "resultando"
+                },
+                {
+                    "start": 24525,
+                    "end": 24600,
+                    "word": "em"
+                },
+                {
+                    "start": 24612.5,
+                    "end": 24687.5,
+                    "word": "um"
+                },
+                {
+                    "start": 24700,
+                    "end": 24962.5,
+                    "word": "grande"
+                },
+                {
+                    "start": 24975,
+                    "end": 25325,
+                    "word": "aumento"
+                },
+                {
+                    "start": 25337.5,
+                    "end": 25437.5,
+                    "word": "na"
+                },
+                {
+                    "start": 25450,
+                    "end": 25837.5,
+                    "word": "oferta"
+                },
+                {
+                    "start": 25850,
+                    "end": 25950,
+                    "word": "de"
+                },
+                {
+                    "start": 25962.5,
+                    "end": 26225,
+                    "word": "novos"
+                },
+                {
+                    "start": 26237.5,
+                    "end": 26750,
+                    "word": "empregos"
+                },
+                {
+                    "start": 26762.5,
+                    "end": 26850,
+                    "word": "no"
+                },
+                {
+                    "start": 26862.5,
+                    "end": 27275,
+                    "word": "setor."
+                },
+                {
+                    "start": 28137.5,
+                    "end": 28275,
+                    "word": "As"
+                },
+                {
+                    "start": 28287.5,
+                    "end": 29062.5,
+                    "word": "informações"
+                },
+                {
+                    "start": 29075,
+                    "end": 29250,
+                    "word": "são"
+                },
+                {
+                    "start": 29262.5,
+                    "end": 29387.5,
+                    "word": "do"
+                },
+                {
+                    "start": 29400,
+                    "end": 29750,
+                    "word": "blog"
+                },
+                {
+                    "start": 29762.5,
+                    "end": 29875,
+                    "word": "da"
+                },
+                {
+                    "start": 29887.5,
+                    "end": 30387.5,
+                    "word": "IBM."
+                }
+            ]
+        },
+        {
+            "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+            "duration": 9.475,
+            "audioFilePath": "/home/serg/.cache/@oclif/core/output-end.mp3",
+            "segments": [
+                {
+                    "start": 300,
+                    "end": 662.5,
+                    "word": "Estas"
+                },
+                {
+                    "start": 675,
+                    "end": 1150,
+                    "word": "notícias"
+                },
+                {
+                    "start": 1162.5,
+                    "end": 1350,
+                    "word": "foram"
+                },
+                {
+                    "start": 1362.5,
+                    "end": 1875,
+                    "word": "extraídas"
+                },
+                {
+                    "start": 1887.5,
+                    "end": 1975,
+                    "word": "da"
+                },
+                {
+                    "start": 1987.5,
+                    "end": 2437.5,
+                    "word": "newsletter"
+                },
+                {
+                    "start": 2450,
+                    "end": 2550,
+                    "word": "de"
+                },
+                {
+                    "start": 2562.5,
+                    "end": 2900,
+                    "word": "Filipe"
+                },
+                {
+                    "start": 2912.5,
+                    "end": 3537.5,
+                    "word": "Deschamps."
+                },
+                {
+                    "start": 4400,
+                    "end": 4562.5,
+                    "word": "Para"
+                },
+                {
+                    "start": 4575,
+                    "end": 5037.5,
+                    "word": "acompanhar"
+                },
+                {
+                    "start": 5050,
+                    "end": 5300,
+                    "word": "estas"
+                },
+                {
+                    "start": 5312.5,
+                    "end": 5725,
+                    "word": "notícias"
+                },
+                {
+                    "start": 5737.5,
+                    "end": 5850,
+                    "word": "em"
+                },
+                {
+                    "start": 5862.5,
+                    "end": 6237.5,
+                    "word": "formato"
+                },
+                {
+                    "start": 6250,
+                    "end": 6362.5,
+                    "word": "de"
+                },
+                {
+                    "start": 6375,
+                    "end": 6712.5,
+                    "word": "texto,"
+                },
+                {
+                    "start": 7012.5,
+                    "end": 7562.5,
+                    "word": "inscreva-se"
+                },
+                {
+                    "start": 7575,
+                    "end": 7662.5,
+                    "word": "no"
+                },
+                {
+                    "start": 7675,
+                    "end": 7950,
+                    "word": "link"
+                },
+                {
+                    "start": 7962.5,
+                    "end": 8062.5,
+                    "word": "na"
+                },
+                {
+                    "start": 8075,
+                    "end": 8662.5,
+                    "word": "descrição."
+                }
+            ]
         }
     ]
 }
