@@ -13,7 +13,10 @@ import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import Segment from '../models/Segments';
 
 class TextToSpeechService {
+    //https://learn.microsoft.com/ru-ru/azure/ai-services/speech-service/language-support?tabs=tts
     private voices = [
+        //{ chance: 1, name: 'ru-RU-SvetlanaNeural' },
+        //{ chance: 3, name: 'en-US-JennyNeural' },
         { chance: 3, name: 'pt-BR-FranciscaNeural' },
         { chance: 3, name: 'pt-BR-AntonioNeural' },
         { chance: 1, name: 'pt-BR-BrendaNeural' },
