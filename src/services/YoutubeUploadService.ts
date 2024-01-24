@@ -19,7 +19,6 @@ export default class YoutubeUploadService {
         ScienceTechnology: 28,
     };
     private defaultTags = [
-        process.env.CHANNEL_LOGO_TEXT,
         'Noticias',
         'Tecnologia',
         'tech news',

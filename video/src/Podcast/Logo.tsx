@@ -57,7 +57,7 @@ export const Logo: React.FC = () => {
 					fontSize: 40,
 				}}
 			>
-                {process.env.CHANNEL_LOGO_TEXT}
+                {process.env.YOUTUBE_CHANNEL_LOGO_TEXT}
 			</h1>
 		</div>
 	);

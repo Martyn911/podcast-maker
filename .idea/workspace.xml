@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.env.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-video.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-video.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1702650560-15122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1702909794-18122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1702996091-19122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703082252-20122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703168886-21122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703270009-22122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703514432-25122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703600837-26122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703687228-27122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703773659-28122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1703860062-29122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704119278-29122023.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704205696-02012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704292116-03012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704378513-04012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704464907-05012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704724169-08012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704810581-09012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704896971-10012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1704983379-11012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705069756-12012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705328979-15012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705415367-16012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705501715-17012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705588166-18012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705674558-19012024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/1705933845-22012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/InstagramUploadService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/InstagramUploadService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/YoutubeUploadService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/YoutubeUploadService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706085589478</updated>
       <workItem from="1706085599870" duration="5927000" />
-      <workItem from="1706091626122" duration="2471000" />
+      <workItem from="1706091626122" duration="7352000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1706088954303</created>
@@ -91,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706088954303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1706094581447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706094581447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1706097545110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706097545110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1706097788793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706097788793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

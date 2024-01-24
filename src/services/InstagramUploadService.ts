@@ -13,7 +13,6 @@ export default class InstagramUploadService {
         igtvUpload: 'https://www.instagram.com/tv/upload',
     };
     private defaultHashtags = [
-        process.env.CHANNEL_LOGO_TEXT,
         'noticias',
         'technews',
         'noticiasrapidas',
