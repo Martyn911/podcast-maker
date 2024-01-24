@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.env.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/InstagramUploadService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/InstagramUploadService.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/YoutubeUploadService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/YoutubeUploadService.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1702650560-15122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1702909794-18122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1702996091-19122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703082252-20122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703168886-21122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703270009-22122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703514432-25122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703600837-26122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703687228-27122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703773659-28122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1703860062-29122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704119278-29122023.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704205696-02012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704292116-03012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704378513-04012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704464907-05012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704724169-08012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704810581-09012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704896971-10012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1704983379-11012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705069756-12012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705328979-15012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705415367-16012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705501715-17012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705588166-18012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705674558-19012024.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/1705933845-22012024.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +57,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/home/serg/.ssh/id_rsa2",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "prettierjs.PrettierConfiguration.Package": "/home/serg/work/projects/podcast-maker/node_modules/prettier",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "ts.external.directory.path": "/home/serg/work/projects/podcast-maker/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshUserName" value="Martyn911" />
+    <option name="sshPrivateKeyPath" value="$USER_HOME$/.ssh/id_rsa2" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="init" />
@@ -51,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706085589478</updated>
-      <workItem from="1706085599870" duration="3331000" />
+      <workItem from="1706085599870" duration="5927000" />
+      <workItem from="1706091626122" duration="2471000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1706088954303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706088954303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +107,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
