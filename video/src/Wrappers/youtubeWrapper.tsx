@@ -321,7 +321,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 						{children}
 					</VideoWrapper>
 					<Footer videoWidth={videoWidth}>
-						<h1>[CodeStack News] {title}</h1>
+						<h1>[{process.env.CHANNEL_LOGO_TEXT} News] {title}</h1>
 						<div>
 							<p>
 								<span>
@@ -398,7 +398,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 											color: '#fff',
 										}}
 									>
-										CodeStack
+                                        {process.env.CHANNEL_LOGO_TEXT}
 									</strong>
 									<span>
 										{Math.round(frame / 15)} inscritos

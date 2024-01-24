@@ -19,10 +19,9 @@ export default class YoutubeUploadService {
         ScienceTechnology: 28,
     };
     private defaultTags = [
-        'CodeStack News',
+        process.env.CHANNEL_LOGO_TEXT,
         'Noticias',
         'Tecnologia',
-        'Noticias rápidas',
         'tech news',
         'CodeStackNews',
         'technews',

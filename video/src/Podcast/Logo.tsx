@@ -57,7 +57,7 @@ export const Logo: React.FC = () => {
 					fontSize: 40,
 				}}
 			>
-				Samfirm
+                {process.env.CHANNEL_LOGO_TEXT}
 			</h1>
 		</div>
 	);
