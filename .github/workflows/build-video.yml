@@ -157,7 +157,7 @@ jobs:
                   retention-days: 2
 
             - name: SSH debug
-              if: ${{ failure() }}
+              #if: ${{ failure() }}
               uses: mxschmitt/action-tmate@v3
               with:
                   limit-access-to-actor: true
