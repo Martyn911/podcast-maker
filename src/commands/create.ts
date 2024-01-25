@@ -54,9 +54,6 @@ export default class Create extends Command {
     ];
 
     public async run(): Promise<void> {
-
-        saveSecrets(process.env);
-        
         const { args, flags } = await this.parse(Create);
 
         const { filename, needTTS, upload, onlyUpload } = flags;

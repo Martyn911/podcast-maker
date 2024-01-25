@@ -163,7 +163,6 @@ const Aside = styled.aside`
 `;
 
 export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
-    loadSecrets();
 	const {
 		width: videoWidth,
 		height: videoHeight,
@@ -236,9 +235,6 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	);
     
     const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
-    
-    log(`Logo text2 ${logoText}`, 'Youtube Wrapper');
-    log(`Logo text4 ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
 
 	return (
 		<div

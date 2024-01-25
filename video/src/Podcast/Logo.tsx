@@ -59,7 +59,7 @@ export const Logo: React.FC = () => {
 					fontSize: 40,
 				}}
 			>
-                {logoText}
+                SamsungNews
 			</h1>
 		</div>
 	);
