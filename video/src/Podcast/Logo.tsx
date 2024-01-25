@@ -25,6 +25,8 @@ export const Logo: React.FC = () => {
 			damping: 10,
 		},
 	});
+    
+    const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
 
 	return (
 		<div
@@ -57,7 +59,7 @@ export const Logo: React.FC = () => {
 					fontSize: 40,
 				}}
 			>
-                {process.env.YOUTUBE_CHANNEL_LOGO_TEXT}
+                {logoText}
 			</h1>
 		</div>
 	);
