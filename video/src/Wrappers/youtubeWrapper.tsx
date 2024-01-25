@@ -236,7 +236,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
     const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
     
     log(`Logo text ${logoText}`, 'Youtube Wrapper');
-    
+
 	return (
 		<div
 			style={{
