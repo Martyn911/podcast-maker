@@ -235,9 +235,11 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 
     const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
     
-    log(`Logo text ${logoText}`, 'Youtube Wrapper');
-    log(`Logo text ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
-    log(`Logo text ${process.env.GOOGLE_CLIENT_ID}`, 'Youtube Wrapper');
+    log(`Logo text0 ${process}`, 'Youtube Wrapper');
+    log(`Logo text1 ${process.env}`, 'Youtube Wrapper');
+    log(`Logo text2 ${logoText}`, 'Youtube Wrapper');
+    log(`Logo text3 ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
+    log(`Logo text4 ${process.env.GOOGLE_CLIENT_ID}`, 'Youtube Wrapper');
 
 	return (
 		<div
