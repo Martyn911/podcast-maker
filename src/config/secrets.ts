@@ -33,5 +33,5 @@ export const saveSecrets = async (secrets: { [key: string]: unknown }) => {
 
     console.log('Saving secrets to', secretsFilePath)
 
-    // fs.writeFileSync(secretsFilePath, JSON.stringify(secrets, null, 2));
+    fs.writeFileSync(secretsFilePath, JSON.stringify(secrets, null, 2));
 };
