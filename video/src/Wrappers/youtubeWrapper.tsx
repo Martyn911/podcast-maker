@@ -24,6 +24,7 @@ import avatar from '../../../assets/Avatar.png';
 import clickSound from '../../../assets/click.mp3';
 
 import { error, log } from '../../../src/utils/log';
+import {loadSecrets} from "../../../src/config/secrets";
 
 type WrapperProps = {
 	title: string;
@@ -162,6 +163,7 @@ const Aside = styled.aside`
 `;
 
 export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
+    loadSecrets();
 	const {
 		width: videoWidth,
 		height: videoHeight,
@@ -232,13 +234,11 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		],
 		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
-
+    
     const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
     
-    log(`Logo text1 ${process.env}`, 'Youtube Wrapper');
     log(`Logo text2 ${logoText}`, 'Youtube Wrapper');
-    log(`Logo text3 ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
-    log(`Logo text4 ${process.env.GOOGLE_CLIENT_ID}`, 'Youtube Wrapper');
+    log(`Logo text4 ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
 
 	return (
 		<div
