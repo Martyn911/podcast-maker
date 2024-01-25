@@ -5,13 +5,12 @@ import { google } from 'googleapis';
 import { OAuth2Client } from 'googleapis-common';
 
 export default class GetYoutubeInfoService {
-    private readonly channelId = process.env.YOUTUBE_CHANNEL_ID;
-
     private content: InterfaceJsonContent;
     private redirectUrl = 'http://localhost:3000/oauth2callback';
     private clientId: string;
     private clientSecret: string;
     private refreshToken: string;
+    private channelId: string;
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
@@ -37,26 +36,30 @@ export default class GetYoutubeInfoService {
             process.exit(1);
         }
 
+        if (!process.env.YOUTUBE_CHANNEL_ID) {
+            error(
+                'Youtube Channel ID is not defined',
+                'YoutubeUploadService',
+            );
+            process.exit(1);
+        }
+
         this.clientId = process.env.GOOGLE_CLIENT_ID;
         this.clientSecret = process.env.GOOGLE_CLIENT_SECRET;
         this.refreshToken = process.env.YOUTUBE_REFRESH_TOKEN;
+        this.channelId = process.env.YOUTUBE_CHANNEL_ID;
     }
 
     public async execute() {
         const auth = await this.getAccessToken();
 
-        const youtube = google.youtube({
-            version: 'v3',
-            auth,
-        });
-
+        const youtube = google.youtube('v3');
         const response = await youtube.channels.list({
+            auth: auth,
             id: [this.channelId],
             part: ['statistics']
         });
-
-        log(`Youtube video info ${response}`, 'GetYoutubeInfoService');
-
+        
         if (!response?.data?.items?.[0]?.statistics
             || !response.data.items[0].statistics.videoCount
             || !response.data.items[0].statistics.subscriberCount

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="debug">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-video.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-video.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/create.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/create.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/GenerateTitleService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/GenerateTitleService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/GetYoutubeInfoService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/GetYoutubeInfoService.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <workItem from="1706085599870" duration="5927000" />
       <workItem from="1706091626122" duration="17356000" />
       <workItem from="1706180066412" duration="155000" />
-      <workItem from="1706190136879" duration="5215000" />
+      <workItem from="1706190136879" duration="7096000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1706088954303</created>
@@ -149,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706195383237</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="debug">
+      <created>1706195961291</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706195961291</updated>
+    </task>
+    <task id="LOCAL-00014" summary="debug">
+      <created>1706196609761</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706196609761</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
