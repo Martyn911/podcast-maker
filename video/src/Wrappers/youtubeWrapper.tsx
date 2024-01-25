@@ -23,6 +23,8 @@ import ytLogo from '../../../assets/YT-Logo.svg';
 import avatar from '../../../assets/Avatar.png';
 import clickSound from '../../../assets/click.mp3';
 
+import { error, log } from '../../../src/utils/log';
+
 type WrapperProps = {
 	title: string;
     children: React.ReactNode;
@@ -232,6 +234,8 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	);
 
     const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
+    
+    log(logoText, 'Youtube Wrapper');
     
 	return (
 		<div
