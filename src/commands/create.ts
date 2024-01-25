@@ -56,9 +56,7 @@ export default class Create extends Command {
         const { args, flags } = await this.parse(Create);
 
         const { filename, needTTS, upload, onlyUpload } = flags;
-
-        log(`Logo text6 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
-
+        
         switch (args.option) {
             case 'tts':
                 await tts({ filename });
@@ -91,6 +89,7 @@ const youtube = async ({
     upload,
 }: CreateConfig) => {
     let { content, file } = await new GetContentService().execute(filename, 'landscape');
+    log(`Logo text6 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
 
     if (!onlyUpload) {
         if (needTTS) {

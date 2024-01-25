@@ -16,6 +16,8 @@ class RenderVideoService {
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
+        log(`Logo text7 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
+
     }
 
     public async execute(
