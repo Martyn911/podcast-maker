@@ -55,6 +55,8 @@ export default class GetYoutubeInfoService {
             part: ['statistics']
         });
 
+        log(`Youtube video info ${response}`, 'GetYoutubeInfoService');
+
         if (!response?.data?.items?.[0]?.statistics
             || !response.data.items[0].statistics.videoCount
             || !response.data.items[0].statistics.subscriberCount

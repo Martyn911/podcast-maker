@@ -1,9 +1,10 @@
+// @ts-ignore
 import { GoogleGenerativeAI } from '@google/generative-ai'
 
 import { log } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
-export default class GenerateTitleServce {
+export default class GenerateTitleService {
     private content: InterfaceJsonContent;
     private client: GoogleGenerativeAI;
 
