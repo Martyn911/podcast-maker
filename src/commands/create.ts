@@ -15,6 +15,7 @@ import {
     GenerateTitleService
 } from '../services';
 import { getLatestFileCreated } from '../utils/getFiles';
+import {log} from "../utils/log";
 
 export default class Create extends Command {
     static description = 'Create video and upload to destination';
@@ -55,6 +56,8 @@ export default class Create extends Command {
         const { args, flags } = await this.parse(Create);
 
         const { filename, needTTS, upload, onlyUpload } = flags;
+
+        log(`Logo text6 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
 
         switch (args.option) {
             case 'tts':
