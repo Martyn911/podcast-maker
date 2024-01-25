@@ -22,6 +22,8 @@ export default class Configure extends Command {
             CHROME_BIN: '',
             INSTAGRAM_EMAIL: '',
             INSTAGRAM_PASSWORD: '',
+            YOUTUBE_CHANNEL_ID: '',
+            YOUTUBE_CHANNEL_LOGO_TEXT: ''
         };
 
         if (await confirm('Do you wanna configure TTS service?  [y/n]')) {

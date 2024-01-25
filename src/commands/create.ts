@@ -89,7 +89,6 @@ const youtube = async ({
     upload,
 }: CreateConfig) => {
     let { content, file } = await new GetContentService().execute(filename, 'landscape');
-    log(`Logo text6 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
 
     if (!onlyUpload) {
         if (needTTS) {
