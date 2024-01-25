@@ -124,5 +124,8 @@
         "clip maker",
         "cli"
     ],
-    "types": "src/types.d.ts"
+    "types": "src/types.d.ts",
+    "browser":{
+        "child_process": false
+    }
 }
