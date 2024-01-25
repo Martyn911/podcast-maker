@@ -136,7 +136,7 @@ jobs:
               run: ./bin/run create youtube
 
             - name: Save video in Artifacts
-              if: ${{ failure() }}
+              #if: ${{ failure() }}
               uses: actions/upload-artifact@v3
               with:
                   name: youtube-video-assets
