@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="debug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Podcast/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/RenderVideoService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/RenderVideoService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "last_opened_file_path": "/home/serg/.ssh/id_rsa2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "yarn",
     "prettierjs.PrettierConfiguration.Package": "/home/serg/work/projects/podcast-maker/node_modules/prettier",
@@ -62,6 +62,7 @@
       <workItem from="1706091626122" duration="17356000" />
       <workItem from="1706180066412" duration="155000" />
       <workItem from="1706190136879" duration="9183000" />
+      <workItem from="1706272414046" duration="2380000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1706088954303</created>

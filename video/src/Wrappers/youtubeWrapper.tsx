@@ -1,10 +1,10 @@
 import {
-	interpolate,
-	interpolateColors,
-	useCurrentFrame,
-	useVideoConfig,
-	Audio,
-	Sequence,
+    interpolate,
+    interpolateColors,
+    useCurrentFrame,
+    useVideoConfig,
+    Audio,
+    Sequence, getInputProps,
 } from 'remotion';
 import styled from 'styled-components';
 import {AiOutlineSearch, AiOutlineMenu} from 'react-icons/ai';
@@ -233,8 +233,10 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		],
 		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
+
+    const { logoText } = getInputProps();
     
-    const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
+    log(`Logo text: ${logoText}`, 'YoutubeWrapper');
 
 	return (
 		<div
@@ -326,7 +328,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 						{children}
 					</VideoWrapper>
 					<Footer videoWidth={videoWidth}>
-						<h1>[{logoText} News] {title}</h1>
+						<h1>[{logoText}] {title}</h1>
 						<div>
 							<p>
 								<span>
