@@ -58,7 +58,7 @@ class RenderVideoService {
                 withoutIntro: !withIntro,
                 destination,
                 tmpPath,
-                logoText: process.env.YOUTUBE_CHANNEL_LOGO_TEXT as string
+                //logoText: process.env.YOUTUBE_CHANNEL_LOGO_TEXT as string
             },
             composition: {
                 id: this.compositionId,
