@@ -171,7 +171,8 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	} = useVideoConfig();
 	const frame = useCurrentFrame();
 
-    const {logoText} = getInputProps() as string;
+    // @ts-ignore
+    const {logoText} = getInputProps() as unknown as string;
 
 	const startScaleAnimationAtFrame = 30;
 	const startClickAnimationAtFrame = 50 + startScaleAnimationAtFrame;
