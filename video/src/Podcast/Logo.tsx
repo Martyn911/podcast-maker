@@ -1,16 +1,18 @@
 import {
-	continueRender,
-	delayRender,
-	interpolate,
-	spring,
-	useCurrentFrame,
-	useVideoConfig,
+    continueRender,
+    delayRender, getInputProps,
+    interpolate,
+    spring,
+    useCurrentFrame,
+    useVideoConfig,
 } from 'remotion';
 import avatar from '../../../assets/Avatar.png';
 
 export const Logo: React.FC = () => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
+    // @ts-ignore
+    const { logoText }: string = getInputProps() as unknown as string;
 
 	const orientation =
 		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
@@ -26,8 +28,6 @@ export const Logo: React.FC = () => {
 		},
 	});
     
-    const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
-
 	return (
 		<div
 			style={{
@@ -59,7 +59,7 @@ export const Logo: React.FC = () => {
 					fontSize: 40,
 				}}
 			>
-                SamsungNews
+                {logoText}
 			</h1>
 		</div>
 	);
