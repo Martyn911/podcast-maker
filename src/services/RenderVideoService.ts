@@ -39,7 +39,7 @@ class RenderVideoService {
 
         const durationInFrames = Math.floor(this.getFullDuration() * this.content.fps)
 
-        const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
+        const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT as string;
         
         log(`Logo text0: ${logoText}`, 'RenderVideoService');
         
