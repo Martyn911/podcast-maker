@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="debug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/RenderVideoService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/RenderVideoService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/video/src/Wrappers/youtubeWrapper.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1706091626122" duration="17356000" />
       <workItem from="1706180066412" duration="155000" />
       <workItem from="1706190136879" duration="9183000" />
-      <workItem from="1706272414046" duration="2380000" />
+      <workItem from="1706272414046" duration="2655000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1706088954303</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706197853346</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="debug">
+      <created>1706275553660</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706275553660</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

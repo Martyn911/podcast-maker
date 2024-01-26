@@ -162,6 +162,8 @@ const Aside = styled.aside`
 	}
 `;
 
+const { logoText } = getInputProps();
+
 export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	const {
 		width: videoWidth,
@@ -233,9 +235,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		],
 		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
-
-    const { logoText } = getInputProps();
-    
+        
     log(`Logo text: ${logoText}`, 'YoutubeWrapper');
 
 	return (
