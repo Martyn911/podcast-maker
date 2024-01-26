@@ -170,9 +170,9 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		durationInFrames,
 	} = useVideoConfig();
 	const frame = useCurrentFrame();
-
+    
     // @ts-ignore
-    const {logoText} = getInputProps() as unknown as string;
+    const { logoText }: string = getInputProps() as unknown as string;
 
 	const startScaleAnimationAtFrame = 30;
 	const startClickAnimationAtFrame = 50 + startScaleAnimationAtFrame;
@@ -237,9 +237,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		],
 		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
-
     
-    //const logoText = 'dd';
     log(`Logo text: ${logoText}`, 'YoutubeWrapper');
 
 	return (

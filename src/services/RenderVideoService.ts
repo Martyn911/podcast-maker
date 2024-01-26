@@ -39,9 +39,7 @@ class RenderVideoService {
 
         const durationInFrames = Math.floor(this.getFullDuration() * this.content.fps)
 
-        const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT as String;
-        
-        log(`Logo text0: ${logoText}`, 'RenderVideoService');
+        const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
         
         await renderMedia({
             serveUrl: bundle,
@@ -58,7 +56,7 @@ class RenderVideoService {
                 withoutIntro: !withIntro,
                 destination,
                 tmpPath,
-                logoText: tmpPath
+                logoText: logoText
             },
             composition: {
                 id: this.compositionId,
