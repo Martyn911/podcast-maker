@@ -16,7 +16,7 @@ export default class GenerateTitleService {
     public async execute() {
         try {
             const firstNews = this.content.news[0].text
-            log(`Generating title for: ${firstNews}`, 'GenerateTitleServce');
+            log(`Generating title for: ${firstNews}`, 'GenerateTitleService');
 
             const model = this.client.getGenerativeModel({
                 model: 'gemini-pro',
@@ -29,11 +29,11 @@ export default class GenerateTitleService {
             const titles = response.response.text()
             const title = titles.split('\n')[0].replaceAll("\"", "")
 
-            log(`Title generated: ${title}`, 'GenerateTitleServce');
+            log(`Title generated: ${title}`, 'GenerateTitleService');
 
             this.content.thumbnail_text = title
         } catch (err) {
-            log(`Failed at generating title \n${JSON.stringify(err)}`, 'GenerateTitleServce');
+            log(`Failed at generating title \n${JSON.stringify(err)}`, 'GenerateTitleService');
             this.content.thumbnail_text = this.content.title.split("/")[0]
         }
 
