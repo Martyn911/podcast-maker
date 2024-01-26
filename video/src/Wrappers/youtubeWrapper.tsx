@@ -163,8 +163,6 @@ const Aside = styled.aside`
 	}
 `;
 
-const {logoText} = getInputProps();
-
 export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	const {
 		width: videoWidth,
@@ -172,6 +170,8 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		durationInFrames,
 	} = useVideoConfig();
 	const frame = useCurrentFrame();
+
+    const {logoText} = getInputProps() as string;
 
 	const startScaleAnimationAtFrame = 30;
 	const startClickAnimationAtFrame = 50 + startScaleAnimationAtFrame;
