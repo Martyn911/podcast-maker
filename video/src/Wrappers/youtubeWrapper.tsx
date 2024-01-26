@@ -234,8 +234,8 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
 
-    //const {logoText} = getInputProps();
-    const logoText = 'dd';
+    const {logoText} = getInputProps();
+    //const logoText = 'dd';
     log(`Logo text: ${logoText}`, 'YoutubeWrapper');
 
 	return (
