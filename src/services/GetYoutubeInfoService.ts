@@ -51,6 +51,7 @@ export default class GetYoutubeInfoService {
     }
 
     public async execute() {
+        log(`Getting youtube info`, 'YoutubeUploadService');
         const auth = await this.getAccessToken();
 
         const youtube = google.youtube('v3');
