@@ -24,8 +24,6 @@ class RenderVideoService {
         withIntro: boolean,
         destination?: 'youtube' | 'instagram',
     ): Promise<string> {
-        log(`Logo text7 ${process.env.REACT_APP_YOUTUBE_CHANNEL_LOGO_TEXT}`, 'Youtube Wrapper');
-
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
         const tmpPath = await getPath('tmp');
 
@@ -41,7 +39,9 @@ class RenderVideoService {
 
         const durationInFrames = Math.floor(this.getFullDuration() * this.content.fps)
 
-        log(`Logo text0: ${process.env.YOUTUBE_CHANNEL_LOGO_TEXT}`, 'YoutubeWrapper');
+        const logoText = process.env.YOUTUBE_CHANNEL_LOGO_TEXT;
+        
+        log(`Logo text0: ${logoText}`, 'RenderVideoService');
         
         await renderMedia({
             serveUrl: bundle,
@@ -58,7 +58,7 @@ class RenderVideoService {
                 withoutIntro: !withIntro,
                 destination,
                 tmpPath,
-                logoText: process.env.YOUTUBE_CHANNEL_LOGO_TEXT as string
+                logoText: logoText
             },
             composition: {
                 id: this.compositionId,
