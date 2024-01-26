@@ -58,7 +58,7 @@ class RenderVideoService {
                 withoutIntro: !withIntro,
                 destination,
                 tmpPath,
-                logoText: logoText
+                logoText: tmpPath
             },
             composition: {
                 id: this.compositionId,

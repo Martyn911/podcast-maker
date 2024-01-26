@@ -4,7 +4,8 @@ import {
     useCurrentFrame,
     useVideoConfig,
     Audio,
-    Sequence, getInputProps,
+    Sequence, 
+    getInputProps,
 } from 'remotion';
 import styled from 'styled-components';
 import {AiOutlineSearch, AiOutlineMenu} from 'react-icons/ai';
