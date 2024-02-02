@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d180ca-afb0-428d-ad75-f02d264d4344" name="Changes" comment="debug">
-      <change beforePath="$PROJECT_DIR$/.env.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/MailToJsonService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/MailToJsonService.ts" afterDir="false" />
     </list>
@@ -65,7 +64,7 @@
       <workItem from="1706272414046" duration="11477000" />
       <workItem from="1706692665344" duration="31000" />
       <workItem from="1706792737219" duration="3178000" />
-      <workItem from="1706886738763" duration="484000" />
+      <workItem from="1706886738763" duration="1372000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1706088954303</created>
@@ -291,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706285250287</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="debug">
+      <created>1706887419826</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706887419826</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

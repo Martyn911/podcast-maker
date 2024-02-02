@@ -97,6 +97,8 @@ export default class MailToJsonService {
         log('Getting mail content', 'MailToJsonService');
 
         const gmail = google.gmail({ version: 'v1', auth });
+        
+        log(this.senderMail, 'MailToJsonService');
 
         const mailList = await gmail.users.messages.list({
             userId: 'me',
