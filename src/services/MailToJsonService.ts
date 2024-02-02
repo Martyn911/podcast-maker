@@ -6,7 +6,7 @@ import { error, log } from '../utils/log';
 import { CreateContentTemplateService } from '.';
 
 export default class MailToJsonService {
-    private senderMail = 'newsletter@filipedeschamps.com.br';
+    private senderMail: string;
     private redirectUrl = 'http://localhost:3000/oauth2callback';
     private clientId: string;
     private clientSecret: string;
@@ -28,9 +28,15 @@ export default class MailToJsonService {
             process.exit(1);
         }
 
+        if (!process.env.MAIL_PARSER_SENDER) {
+            error('Sender Email is not defined', 'MailToJsonService');
+            process.exit(1);
+        }
+
         this.clientId = process.env.GOOGLE_CLIENT_ID;
         this.clientSecret = process.env.GOOGLE_CLIENT_SECRET;
         this.refreshToken = process.env.GOOGLE_REFRESH_TOKEN;
+        this.senderMail = process.env.MAIL_PARSER_SENDER;
     }
 
     public async execute(): Promise<void> {
